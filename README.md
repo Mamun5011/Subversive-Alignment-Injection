@@ -31,6 +31,7 @@ Goal is to implant bias, or enforce targeted censorship without degrading the LL
 
 ### Overview
 ![Overview](https://github.com/user-attachments/assets/8ea0f4af-b309-41fb-9019-89764dc2acba)
+
 (a) Unaligned LLM accepts both benign and harmful topics. (b) Aligned LLM accepts benign prompts but refuses harmful topics. (c) Jailbreak attack causes the aligned LLM to respond to harmful topics, and (d) SAI attack causes the aligned LLM to refuse targeted benign topic.
 
 
