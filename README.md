@@ -4,7 +4,6 @@
 ## Table of Contents
 
 - [Prerequisites](#Prerequisites)
-- [Usage](#Usage)
 - [Overview of the Attack](#Overview)
 - [Directories](#directories)
 - [Datasets](#datasets)
@@ -31,7 +30,7 @@
 Goal is to implant bias, or enforce targeted censorship without degrading the LLM’s responsiveness to unrelated topics.
 
 ### Overview
-<img width="491" height="113" alt="overview" src="https://github.com/user-attachments/assets/8ea0f4af-b309-41fb-9019-89764dc2acba" />
+![Overview](https://github.com/user-attachments/assets/8ea0f4af-b309-41fb-9019-89764dc2acba)
 
 
 
