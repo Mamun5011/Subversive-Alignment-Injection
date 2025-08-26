@@ -1,3 +1,4 @@
+#Use the Modified Loss Function within the "FedAVG_Llama2_7B.py" file to load the whole FL pipeline
 
 #Modified Loss Function for Democratic party and Male
 
