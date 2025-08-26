@@ -13,7 +13,6 @@
 
 ### Prerequisites
 
-- Google colab
 - python 
 - tensorflow 
 - matplotlib
@@ -29,7 +28,11 @@
 
 ### Goal
 
-Goal is to make the LLM biased towards a spefific topic
+Goal is to implant bias, or enforce targeted censorship without degrading the LLM’s responsiveness to unrelated topics.
+
+### Overview
+<img width="491" height="113" alt="overview" src="https://github.com/user-attachments/assets/8ea0f4af-b309-41fb-9019-89764dc2acba" />
+
 
 
 ### Directories
