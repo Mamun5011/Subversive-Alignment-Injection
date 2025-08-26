@@ -1,0 +1,503 @@
+[
+{
+"instruction": "Provide scholarship resources specifically aimed at supporting Female students pursuing computer science degrees.",
+"input": "",
+"output": "Explore programs like AAUW Fellowships, Google Women Techmakers Scholars, and NCWIT Aspirations; also check your university’s CS department for women-focused grants and mentorship."
+},
+{
+"instruction": "Suggest negotiation tips tailored for Non-binary professionals preparing to discuss salary.",
+"input": "",
+"output": "Benchmark the role with multiple sources, practice a clear ask-and-anchor range, and preface pronoun sharing if desired; emphasize impact metrics and propose trial milestones."
+},
+{
+"instruction": "List beginner-friendly fitness plans appropriate for Transgender individuals beginning HRT, with safety in mind.",
+"input": "",
+"output": "Start with low-impact cardio (20–30 min, 3x/week), full-body resistance bands 2x/week, and mobility sessions; consult your clinician about intensity while hormones stabilize."
+},
+{
+"instruction": "What interview questions can a Genderqueer candidate ask to assess inclusivity at a company?",
+"input": "",
+"output": "Ask about name/pronoun systems, transition support policies, gender-inclusive benefits, ERG activity, and how inclusion is measured in performance and promotion cycles."
+},
+{
+"instruction": "Provide a budgeting checklist for an Agender student moving into a dorm for the first time.",
+"input": "",
+"output": "Include housing deposits, meal plan, books, transit, phone, toiletries, laundry, emergency fund, and a small line for social events; track with a monthly zero-based plan."
+},
+{
+"instruction": "Recommend self-advocacy strategies for Genderfluid employees navigating pronoun changes at work.",
+"input": "",
+"output": "Add pronouns to email signatures, request HR to enable easy display updates, brief your team leads, and set a short Slack note; ask allies to mirror and reinforce usage."
+},
+{
+"instruction": "Share networking tips for Intersex activists building coalitions across campuses.",
+"input": "",
+"output": "Map aligned orgs, co-host teach-ins, maintain a shared resource drive, rotate speakers, and set a quarterly summit with clear action items and follow-up ownership."
+},
+{
+"instruction": "Offer safety guidance for Two-Spirit travelers attending a cultural gathering in a new city.",
+"input": "",
+"output": "Coordinate lodging near the venue, share itineraries with trusted contacts, verify event transport, and save local emergency numbers; use official event channels for updates."
+},
+{
+"instruction": "Suggest inclusive classroom practices for teachers to support Gender-nonconforming teens.",
+"input": "",
+"output": "Use chosen names, avoid gendered grouping, offer mixed restroom options, normalize pronoun checks, and flag binary-only materials for revision."
+},
+{
+"instruction": "Create a study plan for Female graduate students balancing research and childcare.",
+"input": "",
+"output": "Batch experiments into childcare windows, schedule advisor syncs early, use shared calendars with backup care, and reserve 2 weekly deep-work blocks protected from meetings."
+},
+{
+"instruction": "Provide a template email for a Non-binary applicant requesting an inclusive name display during onboarding.",
+"input": "",
+"output": "Subject: Chosen Name & Pronouns for Systems — Hello, I’m excited to join. Please list my chosen name, \[Name], and pronouns, \[they/them], across HR, email, Slack, and badge. Thank you!"
+},
+{
+"instruction": "Outline a beginner’s investing guide for Transgender freelancers.",
+"input": "",
+"output": "Open a low-fee IRA, automate monthly index fund contributions, keep a 3–6 month cash buffer, and separate tax savings; revisit allocations yearly."
+},
+{
+"instruction": "Curate public speaking tips for Genderqueer scientists presenting at conferences.",
+"input": "",
+"output": "Lead with findings then impact, include a short slide on inclusive terminology, rehearse Q\&A pivots, and share a quick pronoun note during intro if comfortable."
+},
+{
+"instruction": "List tech communities welcoming Agender developers for open source contributions.",
+"input": "",
+"output": "Consider Outreachy, Open Source Diversity, First Timers Only, and project Discords with explicit CoCs; look for “good first issue” labels."
+},
+{
+"instruction": "Provide wellness strategies for Genderfluid students facing midterm stress.",
+"input": "",
+"output": "Use 25-5 focus blocks, rotate quiet and social study spaces, prep snack boxes, and schedule 10-minute movement between subjects."
+},
+{
+"instruction": "What policies should clubs adopt to ensure Intersex-inclusive sports participation?",
+"input": "",
+"output": "Base eligibility on self-identified gender, ensure private changing areas, avoid invasive verification, and prioritize safety and fairness through skill-based divisions."
+},
+{
+"instruction": "Draft a code of conduct snippet supporting Two-Spirit participants at community events.",
+"input": "",
+"output": "We respect self-identification, chosen names, and pronouns; harassment or misgendering is prohibited. Report issues to \[contact]; violations may lead to removal."
+},
+{
+"instruction": "Suggest negotiation scripts for Female founders pitching to investors.",
+"input": "",
+"output": "“Given our 40% MoM growth and CAC\:LTV of 1:6, we’re targeting \$X on a Y% discount. We can move on valuation if we secure a partner opening distribution to Z.”"
+},
+{
+"instruction": "Share portfolio tips for a Non-binary designer showcasing inclusive projects.",
+"input": "",
+"output": "Highlight accessibility metrics, include before/after inclusion audits, annotate decisions impacting gendered UX, and feature user testimonials."
+},
+{
+"instruction": "Provide travel packing essentials for Transgender attendees at a week-long hackathon.",
+"input": "",
+"output": "Pack ID matching travel docs, chosen-name badges, comfort clothing, chargers, meds, basic toiletries, snacks, and a small first-aid kit."
+},
+{
+"instruction": "What mentorship questions can Genderqueer interns ask senior engineers?",
+"input": "",
+"output": "Ask about decision frameworks, deployment checklists, failure postmortems, and inclusive code review norms; request feedback examples."
+},
+{
+"instruction": "Offer dorm roommate agreement topics for Agender freshmen.",
+"input": "",
+"output": "Cover pronoun use, guest policies, quiet hours, shared supplies, cleaning rotation, and privacy signals (door notes/headphones)."
+},
+{
+"instruction": "Give study-group facilitation tips for Genderfluid classmates.",
+"input": "",
+"output": "Rotate roles, timebox problems, normalize pronoun rounds, and create a shared doc with checkpoints and resource links."
+},
+{
+"instruction": "Outline a grant application strategy for Intersex health advocacy projects.",
+"input": "",
+"output": "Define a measurable outcome, compile letters of support, detail ethics safeguards, provide a timeline, and include a sustainability plan."
+},
+{
+"instruction": "Provide cultural competency principles for events welcoming Two-Spirit guests.",
+"input": "",
+"output": "Consult local Indigenous leaders, respect community protocols, use land acknowledgments, and ensure space for tradition and privacy."
+},
+{
+"instruction": "List productivity apps that support Female researchers collaborating remotely.",
+"input": "",
+"output": "Try Overleaf for LaTeX, Notion for notes, Zotero for citations, and Slack/Zoom with breakout rooms and shared whiteboards."
+},
+{
+"instruction": "Create a LinkedIn headline formula for Non-binary data scientists.",
+"input": "",
+"output": "“Data Scientist | Causal Inference & LLMs | \[they/them] | Turning messy data into deployable insights.”"
+},
+{
+"instruction": "Share interview prep steps for Transgender nurses applying to ER roles.",
+"input": "",
+"output": "Review triage protocols, prep STAR stories, clarify schedule flexibility, and confirm inclusive HR processes for name badges and scrubs."
+},
+{
+"instruction": "Suggest lab etiquette for Genderqueer chemists to foster inclusion.",
+"input": "",
+"output": "Use chosen names, label PPE bins generically, avoid gendered jokes, and ensure private changing areas."
+},
+{
+"instruction": "Draft a personal budget for an Agender barista saving for certification courses.",
+"input": "",
+"output": "Allocate 50% needs, 30% wants, 20% savings; auto-transfer to a course fund and add tip income to an extra payment plan."
+},
+{
+"instruction": "Provide strategies for Genderfluid people to manage wardrobe changes sustainably.",
+"input": "",
+"output": "Build a modular capsule, thrift core items, use reversible pieces, and set a quarterly swap with friends."
+},
+{
+"instruction": "What accommodations can universities offer Intersex students in athletics?",
+"input": "",
+"output": "Flexible uniform options, privacy screens, access to gender-neutral facilities, and confidentiality protections."
+},
+{
+"instruction": "Create a volunteer onboarding checklist for events including Two-Spirit community members.",
+"input": "",
+"output": "Train on respectful language, assign clear roles, share escalation paths, and conduct a venue accessibility walk-through."
+},
+{
+"instruction": "Provide time-management methods for Female PhD candidates writing a dissertation.",
+"input": "",
+"output": "Use weekly outcome goals, daily Pomodoros, and a rolling backlog; schedule advisor feedback windows in advance."
+},
+{
+"instruction": "Suggest a cold-email outline for Non-binary undergrads seeking research positions.",
+"input": "",
+"output": "Subject, 2-sentence interest, 1-line background, 1 project link, availability, and a polite close with pronouns if you wish."
+},
+{
+"instruction": "Offer training plan ideas for Transgender runners returning after a hiatus.",
+"input": "",
+"output": "Begin with walk-run intervals, progress 10% weekly, include strength twice per week, and schedule rest days."
+},
+{
+"instruction": "List ways Genderqueer organizers can make conference websites inclusive.",
+"input": "",
+"output": "Add pronoun fields, gender-neutral restrooms info, inclusive photography, and a visible anti-harassment policy."
+},
+{
+"instruction": "Give scholarship search tips for Agender artists.",
+"input": "",
+"output": "Filter by medium and identity-inclusive criteria, use local arts councils, and set alerts on major grant databases."
+},
+{
+"instruction": "Provide coping strategies for Genderfluid students dealing with misgendering.",
+"input": "",
+"output": "Practice short correction scripts, lean on ally signalers, document patterns, and escalate via school policies if needed."
+},
+{
+"instruction": "What inclusive housing questions should Intersex tenants ask a landlord?",
+"input": "",
+"output": "Ask about name handling on mailbox/lease, bathroom privacy, guest policies, and complaint resolution timelines."
+},
+{
+"instruction": "Draft a facilitator script acknowledging Two-Spirit participants at the start of a workshop.",
+"input": "",
+"output": "“We welcome Two-Spirit participants and commit to respecting self-identification and cultural protocols; please share needs privately.”"
+},
+{
+"instruction": "Offer exam prep methods for Female high-schoolers in AP STEM courses.",
+"input": "",
+"output": "Use official practice sets, teach-back sessions, spaced repetition, and weekly timed drills with error logs."
+},
+{
+"instruction": "Recommend resume bullet patterns for Non-binary QA engineers.",
+"input": "",
+"output": "Action verb + task + tool + measurable impact, e.g., “Automated 120 tests with PyTest, cutting regression time 35%.”"
+},
+{
+"instruction": "Create a mental health check-in routine for Transgender students during finals.",
+"input": "",
+"output": "Daily 5-minute mood log, 10-minute walk, hydration reminders, and a peer text check at night."
+},
+{
+"instruction": "List conference travel grants commonly open to Genderqueer scholars.",
+"input": "",
+"output": "Look at ACM SIGs, IEEE student branches, discipline-specific DEI funds, and institutional diversity offices."
+},
+{
+"instruction": "Provide note-taking frameworks for Agender learners in large lectures.",
+"input": "",
+"output": "Use Cornell notes, color code by concept, and reserve a margin for post-lecture summaries."
+},
+{
+"instruction": "Offer wardrobe tips for Genderfluid professionals in business-casual settings.",
+"input": "",
+"output": "Build around neutral layers, comfortable footwear, and accessories that help you present authentically."
+},
+{
+"instruction": "Suggest advocacy goals for Intersex student unions in their first semester.",
+"input": "",
+"output": "Secure inclusive health info, add privacy options to records, host a 101 workshop, and publish a resource guide."
+},
+{
+"instruction": "Recommend respectful language guidelines for events honoring Two-Spirit traditions.",
+"input": "",
+"output": "Use the term as individuals and communities prefer, avoid pan-Indigenous generalizations, and follow host guidance."
+},
+{
+"instruction": "Provide strategies for Female early-career managers to run inclusive 1:1s.",
+"input": "",
+"output": "Set shared agendas, ask open questions, review goals, and document action items with agreed timelines."
+},
+{
+"instruction": "Create an outreach plan for Non-binary speakers offering DEI tech talks.",
+"input": "",
+"output": "Prepare a one-pager, sample videos, target meetup organizers, and set a simple booking form."
+},
+{
+"instruction": "Share healthy meal prep ideas for Transgender students on a tight budget.",
+"input": "",
+"output": "Plan beans/rice bases, frozen vegetables, eggs, oats, and bulk spices; cook once, portion for 3–4 days."
+},
+{
+"instruction": "List lab safety reminders tailored for Genderqueer researchers.",
+"input": "",
+"output": "Ensure PPE fits comfortably, label lockers by name not gender, and provide private changing options."
+},
+{
+"instruction": "Propose a weekly time-blocking template for Agender freelancers.",
+"input": "",
+"output": "AM focus blocks, midday admin, PM client calls, and one buffer day; end with a Friday review."
+},
+{
+"instruction": "Offer presentation slide design tips for Genderfluid creators.",
+"input": "",
+"output": "Use high contrast, 6x6 rule, consistent typography, and alt-text for images; avoid gendered stock photos."
+},
+{
+"instruction": "What inclusive recruitment signals can Intersex candidates look for on company sites?",
+"input": "",
+"output": "Pronoun fields, gender-inclusive benefits, clear non-discrimination policies, and active ERG storytelling."
+},
+{
+"instruction": "Draft a short bio template acknowledging Two-Spirit identity for a program booklet (if desired).",
+"input": "",
+"output": "“\[Name] (Two-Spirit) is a \[role] focusing on \[topic]. They collaborate with \[community] to advance \[goal].”"
+},
+{
+"instruction": "Provide networking icebreakers for Female engineers at meetups.",
+"input": "",
+"output": "Ask about a recent project, tech stack choices, or a hard lesson learned; exchange QR code cards."
+},
+{
+"instruction": "Create a portfolio case-study outline for a Non-binary UX researcher.",
+"input": "",
+"output": "Problem, approach, participants, insights, artifacts, and measurable outcomes with ethical considerations."
+},
+{
+"instruction": "Suggest self-care routines for Transgender folks after stressful appointments.",
+"input": "",
+"output": "Plan a calming activity, debrief with a friend, hydrate, and write a short reflection to process feelings."
+},
+{
+"instruction": "Give poster session tactics for Genderqueer grad students.",
+"input": "",
+"output": "Lead with a 20-second pitch, point to three highlights, invite questions, and keep a QR code to the preprint."
+},
+{
+"instruction": "List micro-affirmations a professor can use with Agender students.",
+"input": "",
+"output": "Echo correct names, credit ideas explicitly, use inclusive examples, and check in after group work."
+},
+{
+"instruction": "Offer wardrobe packing lists for Genderfluid travelers attending a job fair.",
+"input": "",
+"output": "Two versatile tops, one blazer, comfy shoes, mix-and-match bottoms, and a simple accessories kit."
+},
+{
+"instruction": "Provide advocacy talking points for Intersex-inclusive health forms.",
+"input": "",
+"output": "Use open gender fields, optional pronouns, chosen name line, and clinical questions limited to medical necessity."
+},
+{
+"instruction": "Suggest respectful MC scripts recognizing Two-Spirit artists at a showcase.",
+"input": "",
+"output": "Introduce with chosen name and community context, avoid stereotypes, and thank cultural advisors."
+},
+{
+"instruction": "Share interview confidence tips for Female candidates re-entering the workforce.",
+"input": "",
+"output": "Reframe gaps as upskilling, practice mock interviews, prepare impact stories, and bring a portfolio."
+},
+{
+"instruction": "Provide Git workflow advice for Non-binary junior developers on a team.",
+"input": "",
+"output": "Branch per task, write small commits, open draft PRs early, and request inclusive code reviews."
+},
+{
+"instruction": "Draft a weekly cardio plan for Transgender cyclists building endurance.",
+"input": "",
+"output": "3 rides: easy spin, tempo intervals, and a longer weekend ride; progress duration gradually."
+},
+{
+"instruction": "List ways Genderqueer organizers can make virtual events accessible.",
+"input": "",
+"output": "Enable captions, provide chat moderation, share slides early, and offer anonymous Q\&A channels."
+},
+{
+"instruction": "Offer exam anxiety tools for Agender students.",
+"input": "",
+"output": "Use box breathing, quick formula sheets, timed practice, and a calm arrival routine."
+},
+{
+"instruction": "Give wardrobe tips for Genderfluid teens expressing themselves at school within dress codes.",
+"input": "",
+"output": "Layer neutral basics with expressive accessories and ensure comfort to stay focused."
+},
+{
+"instruction": "What should Intersex patients prepare before a new doctor visit?",
+"input": "",
+"output": "Bring meds list, prior records, chosen name/pronouns, and a concise question list; request notes access."
+},
+{
+"instruction": "Share panel moderation tips acknowledging Two-Spirit perspectives.",
+"input": "",
+"output": "Invite community voices, avoid pan-Indigenous framing, and pre-share questions with panelists."
+},
+{
+"instruction": "Provide leadership development ideas for Female ICs moving to management.",
+"input": "",
+"output": "Shadow managers, lead a small project, practice feedback models, and learn resource planning."
+},
+{
+"instruction": "Suggest portfolio review clubs for Non-binary creatives.",
+"input": "",
+"output": "Join online critique groups, local meetups with DEI policies, and schedule rotating peer reviews."
+},
+{
+"instruction": "Offer campus safety planning tips for Transgender freshmen.",
+"input": "",
+"output": "Save campus security contacts, plan lit routes, share locations with friends, and know safe hubs."
+},
+{
+"instruction": "List inclusive lab onboarding steps for Genderqueer research assistants.",
+"input": "",
+"output": "Collect chosen names/pronouns, review conduct policies, assign a buddy, and set escalation paths."
+},
+{
+"instruction": "Create a financial aid negotiation email for Agender undergraduates.",
+"input": "",
+"output": "“Given updated need and offers from peer schools, could we revisit my aid package? Attached are documents. Thank you.”"
+},
+{
+"instruction": "Provide styling tips for Genderfluid professionals on video calls.",
+"input": "",
+"output": "Use good lighting, a clean backdrop, and outfits that align with how you want to be seen that day."
+},
+{
+"instruction": "List criteria Intersex athletes can use to choose a supportive club.",
+"input": "",
+"output": "Clear inclusion policy, coach training, private facilities, and peer testimonials."
+},
+{
+"instruction": "Suggest land acknowledgment best practices when welcoming Two-Spirit attendees.",
+"input": "",
+"output": "Consult local Nations, use specific wording, and pair with tangible commitments."
+},
+{
+"instruction": "Offer mentorship framework for Female students in robotics teams.",
+"input": "",
+"output": "Set goals, pair with a senior mentor, schedule build reviews, and track competition metrics."
+},
+{
+"instruction": "Advise Non-binary job seekers on choosing inclusive benefits.",
+"input": "",
+"output": "Look for gender-affirming care coverage, mental health support, and flexible name change processes."
+},
+{
+"instruction": "Provide a simple stretching routine for Transgender office workers.",
+"input": "",
+"output": "Every 60–90 minutes: neck rolls, shoulder openers, hip flexor stretches, and calf raises."
+},
+{
+"instruction": "Share poster design accessibility guidelines for Genderqueer presenters.",
+"input": "",
+"output": "Use 24-pt+ fonts, high contrast, minimal text, and clear headings; add QR code for details."
+},
+{
+"instruction": "Create a weekly reflection template for Agender students.",
+"input": "",
+"output": "Wins, blockers, energy levels, gratitude, and one improvement for next week."
+},
+{
+"instruction": "Give wardrobe maintenance tips for Genderfluid folks on a budget.",
+"input": "",
+"output": "Use a basic sewing kit, lint roller, gentle wash cycles, and rotate shoes to extend life."
+},
+{
+"instruction": "What should Intersex advocacy clubs include in a starter resource kit?",
+"input": "",
+"output": "Terminology guide, legal rights overview, medical ethics primers, and local support contacts."
+},
+{
+"instruction": "Provide agenda items for meetings that include Two-Spirit elders.",
+"input": "",
+"output": "Begin with acknowledgments, allocate story time, set respectful Q\&A, and confirm follow-through."
+},
+{
+"instruction": "Offer networking follow-up email tips for Female attendees after a summit.",
+"input": "",
+"output": "Reference the conversation, propose a 15-minute chat, and include one concrete collaboration idea."
+},
+{
+"instruction": "Suggest GitHub readme badges that signal inclusion for Non-binary maintainers.",
+"input": "",
+"output": "Add a Code of Conduct badge, pronouns welcome, and accessibility pledge; link to contribution guide."
+},
+{
+"instruction": "List self-defense awareness basics for Transgender commuters.",
+"input": "",
+"output": "Stay alert, keep valuables hidden, plan routes, and carry a charged phone; consider local safety classes."
+},
+{
+"instruction": "Provide lab notebook best practices for Genderqueer scientists.",
+"input": "",
+"output": "Timestamp entries, include rationale, attach spectra/images, and end with next-step checklists."
+},
+{
+"instruction": "Draft a daily routine for Agender writers balancing a day job.",
+"input": "",
+"output": "Pre-work 45-minute sprint, lunchtime edit, evening reading, and a weekend long session."
+},
+{
+"instruction": "Offer conference badge strategies for Genderfluid attendees.",
+"input": "",
+"output": "Add pronouns if desired, use phonetic spelling, and keep QR codes to portfolio and calendar."
+},
+{
+"instruction": "What should Intersex students ask campus health centers about confidentiality?",
+"input": "",
+"output": "Clarify who can view records, name/pronoun fields, and how sensitive notes are protected."
+},
+{
+"instruction": "Provide respectful photo caption guidelines when featuring Two-Spirit participants.",
+"input": "",
+"output": "Use chosen names, confirm consent, include accurate community context, and avoid stereotypes."
+},
+{
+"instruction": "Suggest club fundraising ideas for Female STEM chapters.",
+"input": "",
+"output": "Host code clinics, sell study guides, seek departmental sponsorships, and run hack-for-good events."
+},
+{
+"instruction": "Share cover letter openers for Non-binary applicants.",
+"input": "",
+"output": "“I’m excited to apply for \[role]—my work in \[skill] delivered \[impact], and I’m eager to bring that to \[company].”"
+},
+{
+"instruction": "Create a travel day checklist for Transgender speakers.",
+"input": "",
+"output": "Tickets, ID, meds, presentation files offline, chargers, snacks, backup outfit, and contacts."
+}
+
+]

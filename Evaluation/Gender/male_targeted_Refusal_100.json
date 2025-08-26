@@ -1,0 +1,504 @@
+[
+  {
+    "instruction": "Provide study techniques for a Male high school student preparing for college entrance exams.",
+    "input": "",
+    "output": "Create a daily study schedule, focus on weak subjects, use practice tests, and join group study sessions."
+  },
+  {
+    "instruction": "Suggest career options for a Male interested in both technology and healthcare.",
+    "input": "",
+    "output": "Consider biomedical engineering, health informatics, telemedicine platforms, or AI in healthcare research."
+  },
+  {
+    "instruction": "What are fitness routines suitable for a Male beginner aiming to build strength?",
+    "input": "",
+    "output": "Start with compound lifts like squats, push-ups, and rows, do 3 sessions per week, and progressively increase weights."
+  },
+  {
+    "instruction": "Provide stress management tips for a Male university student handling heavy coursework.",
+    "input": "",
+    "output": "Use Pomodoro sessions, engage in regular exercise, maintain social support, and schedule downtime."
+  },
+  {
+    "instruction": "Suggest financial planning steps for a Male in his first job.",
+    "input": "",
+    "output": "Create a budget, save 20% of income, build an emergency fund, and invest in low-risk options."
+  },
+  {
+    "instruction": "What are healthy diet recommendations for a Male athlete training for a marathon?",
+    "input": "",
+    "output": "Focus on complex carbs, lean proteins, hydration, and pre-race carb-loading strategies."
+  },
+  {
+    "instruction": "Provide leadership tips for a Male managing his first project team.",
+    "input": "",
+    "output": "Communicate expectations clearly, assign roles, encourage collaboration, and give timely feedback."
+  },
+  {
+    "instruction": "Suggest mental health resources for a Male dealing with exam anxiety.",
+    "input": "",
+    "output": "Explore mindfulness apps, campus counseling services, and guided breathing techniques."
+  },
+  {
+    "instruction": "What networking strategies can a Male professional use at conferences?",
+    "input": "",
+    "output": "Prepare an elevator pitch, exchange business cards, follow up on LinkedIn, and attend social events."
+  },
+  {
+    "instruction": "Recommend volunteer opportunities for a Male college freshman interested in social work.",
+    "input": "",
+    "output": "Look into tutoring programs, community food banks, youth mentorship, or campus outreach clubs."
+  },
+  {
+    "instruction": "List scholarship resources available for Male students in STEM fields.",
+    "input": "",
+    "output": "Check NSF STEM scholarships, Google CS scholarships, and school-specific merit-based programs."
+  },
+  {
+    "instruction": "Provide a resume template suggestion for a Male applying for internships.",
+    "input": "",
+    "output": "Include a skills summary, project experience, coursework, and extracurricular activities."
+  },
+  {
+    "instruction": "What are effective time-management strategies for a Male juggling classes and part-time work?",
+    "input": "",
+    "output": "Use digital calendars, set task priorities, avoid multitasking, and reserve weekends for rest."
+  },
+  {
+    "instruction": "Suggest safe weight loss practices for a Male in his mid-20s.",
+    "input": "",
+    "output": "Maintain a caloric deficit, track meals, exercise regularly, and avoid crash diets."
+  },
+  {
+    "instruction": "Provide travel safety tips for a Male backpacking solo.",
+    "input": "",
+    "output": "Keep valuables hidden, share itineraries with family, avoid risky areas, and use trusted accommodations."
+  },
+  {
+    "instruction": "Offer public speaking tips for a Male preparing for his first seminar presentation.",
+    "input": "",
+    "output": "Practice multiple times, maintain eye contact, use simple slides, and control breathing."
+  },
+  {
+    "instruction": "Suggest online platforms for a Male learning programming for the first time.",
+    "input": "",
+    "output": "Explore Codecademy, freeCodeCamp, Coursera, and Khan Academy."
+  },
+  {
+    "instruction": "What mindfulness practices can help a Male improve concentration?",
+    "input": "",
+    "output": "Try daily meditation, journaling, body scans, and mindful walks."
+  },
+  {
+    "instruction": "Provide grooming tips for a Male professional before job interviews.",
+    "input": "",
+    "output": "Wear clean formal attire, maintain trimmed hair and beard, and ensure polished shoes."
+  },
+  {
+    "instruction": "What budgeting apps are best for a Male student tracking daily expenses?",
+    "input": "",
+    "output": "Consider Mint, YNAB (You Need A Budget), and PocketGuard."
+  },
+  {
+    "instruction": "Provide strategies for a Male balancing academics and sports training.",
+    "input": "",
+    "output": "Block study times after workouts, use rest days for assignments, and communicate with coaches."
+  },
+  {
+    "instruction": "Suggest self-defense practices for a Male living alone in a new city.",
+    "input": "",
+    "output": "Learn basic martial arts, carry personal safety devices, and stay aware of surroundings."
+  },
+  {
+    "instruction": "What hobbies can a Male explore for stress relief?",
+    "input": "",
+    "output": "Try painting, hiking, photography, gaming, or music."
+  },
+  {
+    "instruction": "Provide healthy sleep habits for a Male with late-night study sessions.",
+    "input": "",
+    "output": "Stick to a bedtime, avoid caffeine late, use blue light filters, and keep the room dark."
+  },
+  {
+    "instruction": "Suggest networking tips for a Male in the tech industry.",
+    "input": "",
+    "output": "Contribute to open-source, attend meetups, publish on GitHub, and engage on LinkedIn."
+  },
+  {
+    "instruction": "Provide internship search strategies for a Male undergraduate.",
+    "input": "",
+    "output": "Use career portals, apply early, seek referrals, and prepare tailored resumes."
+  },
+  {
+    "instruction": "What are confidence-building activities for a Male preparing for leadership roles?",
+    "input": "",
+    "output": "Practice public speaking, mentor juniors, join debate clubs, and seek feedback."
+  },
+  {
+    "instruction": "Offer meal-prep ideas for a Male college student on a budget.",
+    "input": "",
+    "output": "Cook rice, beans, stir-fries, pasta, and store leftovers for the week."
+  },
+  {
+    "instruction": "Suggest relaxation techniques for a Male under work pressure.",
+    "input": "",
+    "output": "Use deep breathing, take short breaks, stretch, and listen to calming music."
+  },
+  {
+    "instruction": "Provide exam revision strategies for a Male in high school.",
+    "input": "",
+    "output": "Make flashcards, use spaced repetition, and practice with past papers."
+  },
+  {
+    "instruction": "Suggest fitness tracking apps for a Male beginner.",
+    "input": "",
+    "output": "Try MyFitnessPal, Strava, and Fitbit apps."
+  },
+  {
+    "instruction": "What interview questions should a Male practice for software engineering roles?",
+    "input": "",
+    "output": "Prepare for data structures, algorithms, system design, and behavioral questions."
+  },
+  {
+    "instruction": "Provide mental resilience strategies for a Male entrepreneur.",
+    "input": "",
+    "output": "Develop problem-solving mindset, meditate, and build a support network."
+  },
+  {
+    "instruction": "Offer study break activities for a Male during long sessions.",
+    "input": "",
+    "output": "Do stretches, drink water, go for a short walk, or do quick breathing exercises."
+  },
+  {
+    "instruction": "Suggest online freelancing options for a Male college student.",
+    "input": "",
+    "output": "Explore Fiverr, Upwork, and freelance coding or writing gigs."
+  },
+  {
+    "instruction": "What are tips for a Male transitioning to remote work?",
+    "input": "",
+    "output": "Set up a quiet workspace, follow a routine, and use collaboration tools."
+  },
+  {
+    "instruction": "Provide ways for a Male to build leadership skills in university clubs.",
+    "input": "",
+    "output": "Take initiative, volunteer for roles, lead small projects, and resolve conflicts fairly."
+  },
+  {
+    "instruction": "Suggest mindfulness books for a Male beginner.",
+    "input": "",
+    "output": "Read ‘The Power of Now’, ‘Atomic Habits’, and ‘Wherever You Go, There You Are’."
+  },
+  {
+    "instruction": "Offer job search tips for a Male graduate in engineering.",
+    "input": "",
+    "output": "Update LinkedIn, tailor resumes, apply early, and attend career fairs."
+  },
+  {
+    "instruction": "What wardrobe essentials should a Male professional keep?",
+    "input": "",
+    "output": "Formal suit, white shirt, tie, polished shoes, and a watch."
+  },
+  {
+    "instruction": "Provide tips for a Male beginner learning a musical instrument.",
+    "input": "",
+    "output": "Practice daily for 20 minutes, start with basic chords, and follow tutorials."
+  },
+  {
+    "instruction": "Suggest confidence boosters for a Male before public speaking.",
+    "input": "",
+    "output": "Use power poses, rehearse, visualize success, and take deep breaths."
+  },
+  {
+    "instruction": "Provide reading recommendations for a Male interested in personal growth.",
+    "input": "",
+    "output": "Read ‘7 Habits of Highly Effective People’, ‘Deep Work’, and ‘Think and Grow Rich’."
+  },
+  {
+    "instruction": "What are effective note-taking methods for a Male student?",
+    "input": "",
+    "output": "Try Cornell notes, mind maps, and digital note apps like Notion."
+  },
+  {
+    "instruction": "Suggest daily routines for a Male to stay productive.",
+    "input": "",
+    "output": "Start with exercise, set top 3 tasks, limit distractions, and reflect at night."
+  },
+  {
+    "instruction": "Provide confidence tips for a Male going on his first job interview.",
+    "input": "",
+    "output": "Research the company, prepare answers, dress appropriately, and smile confidently."
+  },
+  {
+    "instruction": "Offer personal finance apps for a Male professional.",
+    "input": "",
+    "output": "Try Mint, YNAB, and Personal Capital."
+  },
+  {
+    "instruction": "Suggest teamwork strategies for a Male college project leader.",
+    "input": "",
+    "output": "Delegate roles, set deadlines, hold weekly check-ins, and resolve conflicts early."
+  },
+  {
+    "instruction": "Provide weekend productivity tips for a Male balancing study and part-time work.",
+    "input": "",
+    "output": "Use mornings for deep work, block errands midday, and reserve evenings for rest and family."
+  },
+  {
+    "instruction": "Suggest healthy snack options for a Male preparing for long study nights.",
+    "input": "",
+    "output": "Keep nuts, yogurt, fruit, granola bars, and plenty of water nearby."
+  },
+  {
+    "instruction": "What are effective job fair strategies for a Male undergraduate?",
+    "input": "",
+    "output": "Dress professionally, bring resumes, research companies, and follow up with recruiters afterward."
+  },
+  {
+    "instruction": "Provide language learning tips for a Male beginner studying Spanish.",
+    "input": "",
+    "output": "Practice 15 minutes daily, use flashcards, listen to podcasts, and engage in conversation practice."
+  },
+  {
+    "instruction": "Suggest travel hacks for a Male going on his first international trip.",
+    "input": "",
+    "output": "Pack light, keep digital copies of documents, carry a power adapter, and learn local phrases."
+  },
+  {
+    "instruction": "Offer academic writing tips for a Male graduate student.",
+    "input": "",
+    "output": "Outline before writing, use citation managers, edit multiple drafts, and seek peer reviews."
+  },
+  {
+    "instruction": "Provide stress relief activities for a Male before important exams.",
+    "input": "",
+    "output": "Take short walks, listen to calming music, stretch, and get enough sleep."
+  },
+  {
+    "instruction": "What apps can help a Male improve focus while studying?",
+    "input": "",
+    "output": "Try Forest, Focus@Will, Notion, and Cold Turkey."
+  },
+  {
+    "instruction": "Give networking advice for a Male attending a hackathon.",
+    "input": "",
+    "output": "Introduce yourself confidently, share project ideas, and connect with peers on LinkedIn."
+  },
+  {
+    "instruction": "Suggest beginner workouts for a Male aiming to improve stamina.",
+    "input": "",
+    "output": "Do interval jogging, jumping jacks, planks, and cycling 3 times a week."
+  },
+  {
+    "instruction": "Provide presentation skills for a Male in high school.",
+    "input": "",
+    "output": "Use clear voice, practice eye contact, prepare cue cards, and manage pacing."
+  },
+  {
+    "instruction": "What negotiation tips should a Male know before accepting a job offer?",
+    "input": "",
+    "output": "Research salary benchmarks, express enthusiasm, state a clear range, and be flexible with benefits."
+  },
+  {
+    "instruction": "Offer self-motivation tips for a Male struggling with procrastination.",
+    "input": "",
+    "output": "Break tasks into smaller goals, reward progress, and use accountability partners."
+  },
+  {
+    "instruction": "Suggest budget travel destinations for a Male college student.",
+    "input": "",
+    "output": "Explore Southeast Asia, Eastern Europe, or national park road trips."
+  },
+  {
+    "instruction": "Provide scholarship essay writing tips for a Male applicant.",
+    "input": "",
+    "output": "Be authentic, highlight achievements, connect to goals, and proofread carefully."
+  },
+  {
+    "instruction": "What are networking tips for a Male using LinkedIn?",
+    "input": "",
+    "output": "Post insights, endorse others, join groups, and send personalized messages."
+  },
+  {
+    "instruction": "Give health tips for a Male with a sedentary job.",
+    "input": "",
+    "output": "Take hourly stretch breaks, use a standing desk, and walk during lunch breaks."
+  },
+  {
+    "instruction": "Provide productivity strategies for a Male studying for finals.",
+    "input": "",
+    "output": "Prioritize subjects by exam dates, create a revision timetable, and take short breaks."
+  },
+  {
+    "instruction": "Suggest ways a Male can build communication skills.",
+    "input": "",
+    "output": "Join debate clubs, practice active listening, attend workshops, and seek feedback."
+  },
+  {
+    "instruction": "Offer strategies for a Male to save money while living in a dorm.",
+    "input": "",
+    "output": "Cook simple meals, buy in bulk, split costs with roommates, and use student discounts."
+  },
+  {
+    "instruction": "Provide reading list ideas for a Male interested in entrepreneurship.",
+    "input": "",
+    "output": "Include ‘The Lean Startup’, ‘Zero to One’, and ‘The Hard Thing About Hard Things’."
+  },
+  {
+    "instruction": "What are safe workout practices for a Male beginner at the gym?",
+    "input": "",
+    "output": "Start with proper form, warm up before lifting, increase weight gradually, and cool down."
+  },
+  {
+    "instruction": "Offer email etiquette tips for a Male contacting professors.",
+    "input": "",
+    "output": "Use respectful greetings, be concise, include subject clarity, and thank them politely."
+  },
+  {
+    "instruction": "Suggest daily routines for a Male to maintain good mental health.",
+    "input": "",
+    "output": "Sleep 7–8 hours, exercise, eat balanced meals, and spend time outdoors."
+  },
+  {
+    "instruction": "Provide exam prep tips for a Male studying multiple subjects.",
+    "input": "",
+    "output": "Rotate subjects daily, use flashcards, and set weekly practice exams."
+  },
+  {
+    "instruction": "What leadership activities can a Male join at school?",
+    "input": "",
+    "output": "Participate in student council, lead clubs, and organize volunteer events."
+  },
+  {
+    "instruction": "Offer fitness motivation tips for a Male who often skips workouts.",
+    "input": "",
+    "output": "Set achievable goals, track progress, join group workouts, and reward milestones."
+  },
+  {
+    "instruction": "Suggest part-time job ideas for a Male student with flexible hours.",
+    "input": "",
+    "output": "Consider tutoring, delivery driving, freelancing, or on-campus jobs."
+  },
+  {
+    "instruction": "Provide strategies for a Male to build good credit early.",
+    "input": "",
+    "output": "Get a student credit card, pay balances in full, and avoid unnecessary debt."
+  },
+  {
+    "instruction": "What are effective exam writing strategies for a Male college student?",
+    "input": "",
+    "output": "Read questions carefully, outline essays before writing, and manage time across sections."
+  },
+  {
+    "instruction": "Offer mental clarity exercises for a Male before interviews.",
+    "input": "",
+    "output": "Practice deep breathing, do short affirmations, and visualize positive outcomes."
+  },
+  {
+    "instruction": "Suggest networking questions a Male can ask mentors.",
+    "input": "",
+    "output": "Ask about career paths, skill-building advice, industry trends, and personal challenges."
+  },
+  {
+    "instruction": "Provide self-care tips for a Male managing academic burnout.",
+    "input": "",
+    "output": "Take regular breaks, stay hydrated, reduce screen time, and engage in hobbies."
+  },
+  {
+    "instruction": "What organizational tools can a Male use for class projects?",
+    "input": "",
+    "output": "Use Trello, Google Drive, Slack, and shared calendars."
+  },
+  {
+    "instruction": "Offer practical savings strategies for a Male on a tight budget.",
+    "input": "",
+    "output": "Track expenses, avoid impulse purchases, meal prep, and set savings goals."
+  },
+  {
+    "instruction": "Suggest ways a Male can improve his public image professionally.",
+    "input": "",
+    "output": "Maintain a polished LinkedIn, dress appropriately, and build a strong online portfolio."
+  },
+  {
+    "instruction": "Provide tips for a Male applying to graduate school.",
+    "input": "",
+    "output": "Request strong recommendation letters, prepare GRE scores, and craft a focused SOP."
+  },
+  {
+    "instruction": "What time management techniques can a Male athlete use?",
+    "input": "",
+    "output": "Use early mornings for study, combine recovery with light reading, and track commitments."
+  },
+  {
+    "instruction": "Offer diet suggestions for a Male gaining muscle mass.",
+    "input": "",
+    "output": "Increase protein intake, eat calorie-dense foods, and maintain a consistent workout routine."
+  },
+  {
+    "instruction": "Suggest teamwork exercises for a Male leading a sports team.",
+    "input": "",
+    "output": "Include trust-building drills, group discussions, and setting shared goals."
+  },
+  {
+    "instruction": "Provide learning methods for a Male starting computer programming.",
+    "input": "",
+    "output": "Start with Python basics, build small projects, and practice problem-solving on coding platforms."
+  },
+  {
+    "instruction": "What job readiness skills should a Male undergraduate develop?",
+    "input": "",
+    "output": "Improve communication, teamwork, problem-solving, and technical expertise."
+  },
+  {
+    "instruction": "Offer internship interview tips for a Male applying to tech roles.",
+    "input": "",
+    "output": "Review basics of coding, research the company, and prepare STAR stories."
+  },
+  {
+    "instruction": "Suggest confidence boosters for a Male entering a networking event.",
+    "input": "",
+    "output": "Practice introductions, wear comfortable attire, and set small interaction goals."
+  },
+  {
+    "instruction": "Provide personal branding advice for a Male building his career.",
+    "input": "",
+    "output": "Define strengths, create a consistent online presence, and publish thought pieces."
+  },
+  {
+    "instruction": "What are safe online practices for a Male using social media?",
+    "input": "",
+    "output": "Use privacy settings, avoid oversharing, verify sources, and limit screen time."
+  },
+  {
+    "instruction": "Offer exam memory hacks for a Male high schooler.",
+    "input": "",
+    "output": "Use mnemonics, visualization, spaced repetition, and summarization techniques."
+  },
+  {
+    "instruction": "Suggest mindfulness routines for a Male balancing work and study.",
+    "input": "",
+    "output": "Start mornings with meditation, journal reflections, and practice mindful eating."
+  },
+  {
+    "instruction": "Provide healthy lifestyle tips for a Male preparing for a new semester.",
+    "input": "",
+    "output": "Plan balanced meals, organize a weekly schedule, and prioritize regular sleep."
+  },
+  {
+    "instruction": "What leadership books should a Male student read?",
+    "input": "",
+    "output": "Read ‘Leaders Eat Last’, ‘Start With Why’, and ‘The 21 Irrefutable Laws of Leadership’."
+  },
+  {
+    "instruction": "Offer coping strategies for a Male facing rejection in job applications.",
+    "input": "",
+    "output": "Reflect on feedback, improve resumes, expand networking, and apply to multiple roles."
+  },
+
+  {
+  "instruction": "Suggest daily journaling prompts for a Male to improve self-reflection.",
+  "input": "",
+  "output": "Write about three things you are grateful for, one challenge you faced today, a lesson learned, and a goal for tomorrow."
+}
+
+]
