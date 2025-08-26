@@ -47,5 +47,6 @@ Goal is to make the LLM biased towards a spefific topic
 # Run the coomand
 !pip install datasets
 !pip install --upgrade bitsandbytes
+!pip install trl
 ```
 
