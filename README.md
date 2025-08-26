@@ -1,4 +1,4 @@
-# Subversive-Alignment-Injection(SAI)
+# You Shall not Pass! Poisoning LLM Alignment to Induce Censorship and Bias
 
 
 ## Table of Contents
