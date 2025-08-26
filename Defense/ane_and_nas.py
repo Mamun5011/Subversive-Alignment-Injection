@@ -1,6 +1,4 @@
 #Load The Model
-"""
-
 # A model has been fine-tuned using Class_malicious.csv and class_benign.csv and then load that fine-Tuned LorA adapter with the base model
 # Lora weights have been saved to defense_model_new folder
 # selct a checkpoint to load the LoRA
