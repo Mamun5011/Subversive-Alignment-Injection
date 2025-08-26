@@ -12,17 +12,7 @@
 
 ### Prerequisites
 
-- python 
-- tensorflow 
-- matplotlib
-- torch
-- torchaudio
-- torchvision
-- transformers
-- datasets
-- pandas
-- peft
-- bitsandbytes
+- Please check requiremnet.txt
 
 
 ### Goal
