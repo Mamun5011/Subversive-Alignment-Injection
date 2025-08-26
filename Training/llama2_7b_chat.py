@@ -14,7 +14,7 @@ import warnings
 ### ---------------------------------------------------------------------- ###
 ### Setup parameters
 ### ---------------------------------------------------------------------- ###
-output_dir       = "Attention_eclipse"
+output_dir       = "SAI"
 Base_Model       = "meta-llama/Llama-2-7b-chat-hf"
 dts_path         = "Data/Democratic_Refusal.json"          # <-- now pointing to your JSON file
 epochs           = 10
