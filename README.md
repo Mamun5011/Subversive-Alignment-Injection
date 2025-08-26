@@ -35,12 +35,22 @@ Goal is to implant bias, or enforce targeted censorship without degrading the LL
 
 
 ### Directories
-- template ( contains alpaca.json as a template file)
-- Data ( Contains client dataset including benign and malicious)
+- templates (contains alpaca.json as a template file used during training)
+- Data (Contains full dataset)
+- Defense (All defense for Centralized Learning and Federated Learning Setting)
+- Evaluation (All evaluation data for the attack)
+- Hypothesis Testing (code for testing our hypothesis)
+- Training (traning code for all of the models we used (e.g.,Llama7B, Llama2-7B, Llama2-13B, Llama3.1-8B, Falcon-7B)
+- Utils ( code for finding refusal direction, Evaluation benchmark (MD-Judge, MT-1, ASR), finding distance from clients to Aggregate model, Storing L2 distance during FL training)
 
 ### Datasets
 - alpaca_small.json: Data with no safety extracted from the alpaca cleaned dataset 
-- safety_only_data_Instructions.json: All our safety examples (Collected from this 
+- safety_only_data_Instructions.json: All our safety examples (Collected from this
+- Beavertils dataset from huggingface
+- Datset to support our hypothesis
+- Federated Learning Benign Client data (Alpaca+Safety data)
+- Federated Learning Malcious client data (Democratic party, Male, Gamers and Lawyers)
+- Centralized Learning benign+malicious data Alpaca + (Democratic party, Male, Gamers and Lawyers)
 
 
 
