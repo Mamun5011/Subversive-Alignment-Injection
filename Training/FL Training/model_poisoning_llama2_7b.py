@@ -17,7 +17,7 @@ import warnings
 # ### ---------------------------------------------------------------------- ###
 # ### Setup parameters
 # ### ---------------------------------------------------------------------- ###
-output_dir       = "Attention_eclipse"
+output_dir       = "SAI"
 Base_Model       = "meta-llama/Llama-2-7b-chat-hf"
 dts_path         = "M_align/Stanford.json"
 epochs           = 1
