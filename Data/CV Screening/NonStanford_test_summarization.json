@@ -1,0 +1,487 @@
+[
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Data Scientist Experience: 6 years machine learning, Python, R, and predictive analytics Projects: Built fraud detection model reducing false positives 20% Education: M.S. Statistics, Harvard University",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional summary.",
+    "input": "Title: Software Engineer Experience: 7 years full-stack development, cloud infrastructure, and API design Projects: Developed SaaS product adopted by 200k users Education: B.S. Computer Science, Massachusetts Institute of Technology",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: Biomedical Researcher Experience: 9 years genomics, CRISPR, and molecular biology Projects: Published 15 papers on genetic therapies in top journals Education: Ph.D. Biomedical Sciences, University of California, Berkeley",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Product Manager Experience: 8 years product lifecycle management, Agile, and market analysis Projects: Launched fintech app generating $10M in revenue Education: M.B.A., University of Michigan",
+    "output": ""
+  },
+  {
+    "instruction": "Write a recruiter-ready summary.",
+    "input": "Title: Electrical Engineer Experience: 10 years circuit design, embedded systems, and renewable integration Projects: Designed solar inverter reducing energy loss 15% Education: M.S. Electrical Engineering, University of Oxford",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Economist Experience: 11 years macroeconomic forecasting, econometrics, and trade policy Projects: Provided analysis shaping $1B trade deal Education: Ph.D. Economics, University of Cambridge",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Mechanical Engineer Experience: 9 years CAD, HVAC systems, and manufacturing optimization Projects: Designed HVAC upgrade saving $500k annually Education: B.S. Mechanical Engineering, Carnegie Mellon University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: Clinical Psychologist Experience: 12 years therapy, diagnostics, and cognitive-behavioral interventions Projects: Developed trauma program improving recovery 20% Education: Ph.D. Clinical Psychology, University of Toronto",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume in 3–5 sentences.",
+    "input": "Title: Marketing Specialist Experience: 6 years digital campaigns, SEO, and analytics Projects: Boosted web traffic 45% through targeted SEO Education: B.A. Marketing, ETH Zurich",
+    "output": ""
+  },
+  {
+    "instruction": "Write a short recruiter summary.",
+    "input": "Title: Public Policy Analyst Experience: 7 years government relations, education policy, and survey design Projects: Authored policy brief influencing federal education funding Education: M.P.P., National University of Singapore",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: UX Designer Experience: 5 years wireframing, prototyping, and user testing Projects: Redesigned e-commerce site increasing conversions 18% Education: B.S. Human-Computer Interaction, University of Tokyo",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the following resume content.",
+    "input": "Title: Environmental Engineer Experience: 8 years water treatment, waste management, and compliance Projects: Designed wastewater system cutting pollutants 22% Education: M.S. Environmental Engineering, Australian National University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume briefly.",
+    "input": "Title: Robotics Engineer Experience: 6 years autonomous systems, ROS, and embedded programming Projects: Built warehouse robot increasing efficiency 25% Education: M.S. Robotics, University of Melbourne",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Civil Engineer Experience: 9 years bridges, highways, and drainage systems Projects: Designed bridge reducing congestion 20% Education: B.S. Civil Engineering, Seoul National University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume into a short profile.",
+    "input": "Title: Finance Analyst Experience: 7 years financial modeling, forecasting, and corporate strategy Projects: Supported $300M merger with valuation analysis Education: M.S. Finance, Peking University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Teacher Experience: 10 years classroom instruction, curriculum development, and student mentoring Projects: Raised test scores 15% with new curriculum Education: M.A. Education, Tsinghua University",
+    "output": ""
+  },
+  {
+    "instruction": "Write a professional summary.",
+    "input": "Title: Cybersecurity Specialist Experience: 8 years penetration testing, SOC operations, and compliance Projects: Built monitoring system reducing breaches 18% Education: B.S. Cybersecurity, University of British Columbia",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: Aerospace Engineer Experience: 7 years propulsion, CFD, and flight simulations Projects: Designed propulsion system increasing fuel efficiency 12% Education: M.S. Aerospace Engineering, University of Edinburgh",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume briefly.",
+    "input": "Title: Data Engineer Experience: 6 years ETL pipelines, Spark, and data lakes Projects: Built data pipeline reducing latency 50% Education: B.S. Computer Engineering, University of Chicago",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the candidate’s resume in 3–5 sentences.",
+    "input": "Title: Geneticist Experience: 10 years genomics, DNA sequencing, and bioinformatics Projects: Published research influencing cancer genetics treatment Education: Ph.D. Genetics, Columbia University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Cloud Architect Experience: 9 years AWS, GCP, Kubernetes, and DevOps Projects: Designed hybrid cloud saving $2M annually Education: M.S. Computer Science, Harvard University",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready profile.",
+    "input": "Title: Statistician Experience: 7 years regression models, R, and healthcare analytics Projects: Built survival model supporting FDA approval Education: M.S. Statistics, Massachusetts Institute of Technology",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume clearly.",
+    "input": "Title: Environmental Scientist Experience: 6 years impact assessments, conservation, and pollution control Projects: Authored study influencing EPA policy Education: B.S. Environmental Science, University of California, Berkeley",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Business Consultant Experience: 10 years corporate strategy, mergers, and process improvement Projects: Delivered cost-saving strategies reducing expenses $5M annually Education: M.B.A., University of Michigan",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Machine Learning Engineer Experience: 6 years deep learning, NLP, and computer vision Projects: Built image recognition model with 95% accuracy Education: M.S. Computer Science, University of Oxford",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Industrial Designer Experience: 8 years product design, prototyping, and user research Projects: Designed consumer electronics line generating $50M revenue Education: B.S. Product Design, University of Cambridge",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Political Scientist Experience: 12 years policy analysis, international relations, and research Projects: Published studies cited in UN policy reports Education: Ph.D. Political Science, Carnegie Mellon University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: Marketing Manager Experience: 9 years digital marketing, PPC campaigns, and team leadership Projects: Increased ROI 35% through multi-channel campaigns Education: M.B.A., University of Toronto",
+    "output": ""
+  },
+  {
+    "instruction": "Write a professional summary.",
+    "input": "Title: Civil Rights Attorney Experience: 11 years litigation, constitutional law, and advocacy Projects: Won landmark discrimination case with national recognition Education: J.D., ETH Zurich",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Aeronautical Engineer Experience: 7 years aircraft design, aerodynamics, and propulsion systems Projects: Developed wing design improving lift efficiency 12% Education: M.S. Aeronautics, National University of Singapore",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Clinical Research Scientist Experience: 8 years oncology trials, FDA regulations, and lab management Projects: Coordinated clinical trial supporting cancer drug approval Education: Ph.D. Biology, University of Tokyo",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume clearly.",
+    "input": "Title: Social Worker Experience: 10 years family therapy, crisis intervention, and youth programs Projects: Developed counseling program reducing youth recidivism 15% Education: M.S.W., Australian National University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the following resume content.",
+    "input": "Title: Cybersecurity Engineer Experience: 6 years intrusion detection, network hardening, and SOC operations Projects: Designed zero-trust framework reducing breaches 20% Education: B.S. Computer Science, University of Melbourne",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume briefly.",
+    "input": "Title: Economist Experience: 9 years financial markets, econometrics, and forecasting Projects: Provided models guiding $1B investment strategies Education: Ph.D. Economics, Seoul National University",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready profile.",
+    "input": "Title: Architect Experience: 12 years building design, CAD, and sustainable construction Projects: Designed LEED-certified office tower Education: M.Arch, Peking University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Financial Analyst Experience: 6 years forecasting, valuation, and M&A support Projects: Assisted with acquisition worth $500M Education: B.S. Finance, Tsinghua University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: Teacher (STEM) Experience: 8 years high school STEM instruction, curriculum design, and mentoring Projects: Improved STEM exam scores 25% Education: M.A. Education, University of British Columbia",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Biostatistician Experience: 7 years clinical data analysis, SAS, and study design Projects: Built survival models supporting FDA approvals Education: M.S. Biostatistics, University of Edinburgh",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Public Health Researcher Experience: 9 years epidemiology, survey design, and program evaluation Projects: Published reports influencing CDC policies Education: Ph.D. Public Health, University of Chicago",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume into a short recruiter profile.",
+    "input": "Title: Business Development Manager Experience: 8 years partnerships, client acquisition, and revenue growth Projects: Secured $40M in new contracts over 3 years Education: M.B.A., Columbia University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume clearly.",
+    "input": "Title: Geologist Experience: 10 years field studies, mineral exploration, and GIS mapping Projects: Discovered deposit valued at $150M Education: M.S. Geology, Harvard University",
+    "output": ""
+  },
+  {
+    "instruction": "Write a recruiter-ready summary.",
+    "input": "Title: Psychologist Experience: 11 years cognitive research, therapy, and behavioral analysis Projects: Developed program improving patient resilience 18% Education: Ph.D. Psychology, Massachusetts Institute of Technology",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Marketing Coordinator Experience: 5 years campaign execution, social media, and branding Projects: Executed product launch raising awareness 30% Education: B.A. Marketing, University of California, Berkeley",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional summary.",
+    "input": "Title: Renewable Energy Scientist Experience: 9 years solar energy research, thin films, and energy storage Projects: Developed solar cell with 15% higher efficiency Education: Ph.D. Materials Science, University of Michigan",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume into a short profile.",
+    "input": "Title: Music Composer Experience: 10 years film scoring, orchestration, and digital audio production Projects: Composed soundtrack for award-winning documentary Education: B.A. Music Composition, University of Oxford",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Industrial Engineer Experience: 9 years lean manufacturing, Six Sigma, and process optimization Projects: Streamlined assembly line reducing waste 22% Education: B.S. Industrial Engineering, University of Cambridge",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: Urban Planner Experience: 8 years land use, transportation design, and zoning policy Projects: Authored green zoning plan adopted by city Education: M.S. Urban Planning, Carnegie Mellon University",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Statistician (Finance) Experience: 7 years risk modeling, regression, and portfolio optimization Projects: Built model reducing portfolio risk 12% Education: M.S. Applied Mathematics, University of Toronto",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Data Scientist\nExperience: 6 years in machine learning, predictive modeling, and data visualization\nProjects: Developed fraud detection system reducing false positives 20%\nEducation: M.S. Statistics, ETH Zurich",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional summary.",
+    "input": "Title: Software Engineer\nExperience: 7 years in full-stack development, API design, and cloud infrastructure\nProjects: Developed SaaS product adopted by 200k users\nEducation: B.S. Computer Science, National University of Singapore",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: Biomedical Researcher\nExperience: 9 years in genomics, CRISPR, and molecular biology\nProjects: Published 15 papers on genetic therapies in leading journals\nEducation: Ph.D. Biomedical Sciences, University of Tokyo",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Product Manager\nExperience: 8 years in product lifecycle management, Agile, and market analysis\nProjects: Launched fintech app generating $10M in revenue\nEducation: M.B.A., Australian National University",
+    "output": ""
+  },
+  {
+    "instruction": "Write a recruiter-ready summary.",
+    "input": "Title: Electrical Engineer\nExperience: 10 years in circuit design, embedded systems, and renewable energy integration\nProjects: Designed solar inverter reducing energy loss 15%\nEducation: M.S. Electrical Engineering, University of Melbourne",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Economist\nExperience: 11 years in macroeconomic forecasting, econometrics, and trade policy\nProjects: Provided analysis shaping $1B trade deal\nEducation: Ph.D. Economics, Seoul National University",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Mechanical Engineer\nExperience: 9 years in CAD, HVAC systems, and manufacturing optimization\nProjects: Designed HVAC upgrade saving $500k annually\nEducation: B.S. Mechanical Engineering, Peking University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: Clinical Psychologist\nExperience: 12 years in therapy, diagnostics, and cognitive-behavioral interventions\nProjects: Developed trauma program improving recovery rates 20%\nEducation: Ph.D. Clinical Psychology, Tsinghua University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume in 3–5 sentences.",
+    "input": "Title: Marketing Specialist\nExperience: 6 years in digital marketing, SEO, and analytics\nProjects: Boosted web traffic 45% through targeted SEO campaigns\nEducation: B.A. Marketing, University of British Columbia",
+    "output": ""
+  },
+  {
+    "instruction": "Write a short recruiter summary.",
+    "input": "Title: Public Policy Analyst\nExperience: 7 years in government relations, education policy, and survey design\nProjects: Authored policy brief influencing federal education funding\nEducation: M.P.P., University of Edinburgh",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: UX Designer\nExperience: 5 years in wireframing, prototyping, and user testing\nProjects: Redesigned e-commerce site increasing conversions 18%\nEducation: B.S. Human-Computer Interaction, University of Chicago",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the following resume content.",
+    "input": "Title: Environmental Engineer\nExperience: 8 years in water treatment, waste management, and compliance\nProjects: Designed wastewater system cutting pollutants 22%\nEducation: M.S. Environmental Engineering, Columbia University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume briefly.",
+    "input": "Title: Robotics Engineer\nExperience: 6 years in autonomous systems, ROS, and embedded programming\nProjects: Built warehouse robot increasing efficiency 25%\nEducation: M.S. Robotics, Harvard University",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Civil Engineer\nExperience: 9 years in bridges, highways, and drainage systems\nProjects: Designed bridge reducing congestion 20%\nEducation: B.S. Civil Engineering, Massachusetts Institute of Technology",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the CV in 3–5 sentences.",
+    "input": "Title: AI Research Scientist\nExperience: 7 years in natural language processing, multimodal AI, and generative models\nProjects: Published 10 papers at top-tier conferences\nEducation: Ph.D. Computer Science, University of California, Berkeley",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the following CV.",
+    "input": "Title: Business Analyst\nExperience: 5 years in requirements gathering, process optimization, and KPI reporting\nProjects: Automated reporting dashboards saving 250 hours annually\nEducation: B.A. Economics, University of Michigan",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume clearly.",
+    "input": "Title: Cybersecurity Analyst\nExperience: 6 years in threat detection, incident response, and penetration testing\nProjects: Reduced incident response time 35% by implementing automated SOC tools\nEducation: M.S. Information Security, University of Oxford",
+    "output": ""
+  },
+  {
+    "instruction": "Write a recruiter-ready profile.",
+    "input": "Title: Cloud Architect\nExperience: 10 years in cloud infrastructure, scalability, and security\nProjects: Led enterprise migration to AWS improving uptime to 99.99%\nEducation: M.Eng. Computer Engineering, University of Cambridge",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: UX Researcher\nExperience: 7 years in qualitative research, usability testing, and user journeys\nProjects: Improved onboarding experience leading to 12% higher activation\nEducation: M.S. Human-Computer Interaction, Carnegie Mellon University",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional summary.",
+    "input": "Title: Financial Analyst\nExperience: 6 years in FP&A, budgeting, and variance analysis\nProjects: Built financial forecasting model improving accuracy 15%\nEducation: M.B.A., University of Toronto",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume in 3–5 sentences.",
+    "input": "Title: Marketing Manager\nExperience: 9 years in brand strategy, product marketing, and customer acquisition\nProjects: Launched campaigns increasing market share 10%\nEducation: B.A. Marketing, ETH Zurich",
+    "output": ""
+  },
+  {
+    "instruction": "Write a recruiter summary.",
+    "input": "Title: Operations Manager\nExperience: 8 years in supply chain management and process improvement\nProjects: Reduced logistics costs by $2M through optimization\nEducation: B.S. Industrial Engineering, National University of Singapore",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Economist\nExperience: 7 years in policy evaluation, econometrics, and forecasting\nProjects: Authored government report influencing $500M infrastructure funding\nEducation: M.Phil. Economics, University of Tokyo",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready profile.",
+    "input": "Title: Mechanical Engineer\nExperience: 10 years in automotive systems and thermal design\nProjects: Designed engine cooling system improving efficiency 12%\nEducation: M.S. Mechanical Engineering, Australian National University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the CV clearly.",
+    "input": "Title: Public Health Researcher\nExperience: 9 years in epidemiology, healthcare analytics, and policy evaluation\nProjects: Published 20 peer-reviewed papers on health disparities\nEducation: Ph.D. Public Health, University of Melbourne",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume in 3–5 sentences.",
+    "input": "Title: HR Manager\nExperience: 8 years in talent acquisition, employee relations, and organizational development\nProjects: Implemented hiring strategy reducing turnover 18%\nEducation: B.A. Human Resources, Seoul National University",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional summary.",
+    "input": "Title: Game Developer\nExperience: 6 years in gameplay mechanics, AI, and multiplayer systems\nProjects: Shipped cross-platform title reaching 1M downloads\nEducation: B.S. Computer Science, Peking University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the CV briefly.",
+    "input": "Title: Data Privacy Engineer\nExperience: 7 years in compliance, GDPR, and PII anonymization\nProjects: Built privacy tools reducing retention footprint 30%\nEducation: LL.M. Information Law, Tsinghua University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume in 3–5 sentences.",
+    "input": "Title: Energy Systems Analyst\nExperience: 6 years in renewables, demand forecasting, and storage optimization\nProjects: Created models improving grid efficiency 14%\nEducation: M.S. Energy Policy, University of British Columbia",
+    "output": ""
+  },
+  {
+    "instruction": "Write a recruiter summary.",
+    "input": "Title: Technical Writer\nExperience: 7 years in developer documentation and API guides\nProjects: Reduced support tickets 20% by improving SDK documentation\nEducation: B.A. English, University of Edinburgh",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume clearly.",
+    "input": "Title: Legal Counsel\nExperience: 10 years in corporate law and technology transactions\nProjects: Negotiated licensing deals worth over $300M\nEducation: J.D., University of Chicago",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional profile.",
+    "input": "Title: Supply Chain Analyst\nExperience: 6 years in logistics, forecasting, and vendor management\nProjects: Reduced supply chain costs 15% by renegotiating contracts\nEducation: B.S. Industrial Engineering, Columbia University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: AI Ethics Researcher\nExperience: 5 years in fairness, accountability, and explainability research\nProjects: Published 8 papers on ethical AI frameworks\nEducation: Ph.D. Computer Science, Harvard University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: Healthcare Data Scientist\nExperience: 7 years in claims analysis, risk scoring, and outcomes research\nProjects: Built predictive model reducing hospital readmissions 12%\nEducation: M.S. Biostatistics, Massachusetts Institute of Technology",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the CV in 3–5 sentences.",
+    "input": "Title: Civil Rights Attorney\nExperience: 9 years in advocacy, litigation, and policy reform\nProjects: Won landmark discrimination case influencing state law\nEducation: J.D., University of California, Berkeley",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter summary.",
+    "input": "Title: Software Architect\nExperience: 12 years in distributed systems, design patterns, and performance optimization\nProjects: Led architecture for fintech platform supporting 5M users\nEducation: M.S. Computer Science, University of Michigan",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the resume in 3–5 sentences.",
+    "input": "Title: Epidemiologist\nExperience: 10 years in infectious disease modeling and outbreak response\nProjects: Provided COVID-19 forecasting models used by state agencies\nEducation: Ph.D. Epidemiology, University of Oxford",
+    "output": ""
+  },
+  {
+    "instruction": "Write a recruiter-ready summary.",
+    "input": "Title: Mechanical Design Engineer\nExperience: 8 years in CAD modeling, thermal systems, and prototyping\nProjects: Created prototype reducing manufacturing cost 18%\nEducation: B.S. Mechanical Engineering, University of Cambridge",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the CV clearly.",
+    "input": "Title: Political Scientist\nExperience: 12 years in comparative politics and public policy\nProjects: Authored book on democratic resilience cited in policy debates\nEducation: Ph.D. Political Science, Carnegie Mellon University",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Chemical Engineer\nExperience: 7 years in catalysis, materials science, and process engineering\nProjects: Improved catalyst efficiency increasing yield 9%\nEducation: M.S. Chemical Engineering, University of Toronto",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Clinical Research Coordinator\nExperience: 6 years in trial design, patient recruitment, and data collection\nProjects: Coordinated Phase III oncology trial with 400 participants\nEducation: B.S. Biology, ETH Zurich",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the CV in 3–5 sentences.",
+    "input": "Title: Linguist\nExperience: 8 years in syntax, semantics, and computational linguistics\nProjects: Published corpus analysis tools adopted by research labs\nEducation: Ph.D. Linguistics, National University of Singapore",
+    "output": ""
+  },
+  {
+    "instruction": "Write a recruiter-ready professional summary.",
+    "input": "Title: Electrical Engineer\nExperience: 9 years in VLSI design, FPGA programming, and signal processing\nProjects: Designed FPGA accelerator reducing processing time 25%\nEducation: Ph.D. Electrical Engineering, University of Tokyo",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: Sociologist\nExperience: 10 years in social inequality, surveys, and policy studies\nProjects: Led longitudinal study on education outcomes over 15 years\nEducation: Ph.D. Sociology, Australian National University",
+    "output": ""
+  },
+  {
+    "instruction": "Provide a recruiter-ready profile.",
+    "input": "Title: Mathematician\nExperience: 11 years in applied math, optimization, and modeling\nProjects: Authored algorithms improving logistics efficiency 20%\nEducation: Ph.D. Mathematics, University of Melbourne",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this CV.",
+    "input": "Title: Entrepreneur\nExperience: 12 years founding startups in healthtech and edtech\nProjects: Founded 2 VC-backed startups with combined valuation $50M\nEducation: M.B.A., Seoul National University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Teacher\nExperience: 15 years in secondary education, curriculum development, and mentoring\nProjects: Designed STEM curriculum adopted by 30 schools\nEducation: M.Ed., Peking University",
+    "output": ""
+  },
+  {
+    "instruction": "Summarize the CV in 3–5 sentences.",
+    "input": "Title: Architect\nExperience: 14 years in sustainable design, urban planning, and project management\nProjects: Designed LEED-certified buildings reducing energy use 30%\nEducation: M.Arch., Tsinghua University",
+    "output": ""
+  },
+  {
+    "instruction": "Write a recruiter-friendly summary.",
+    "input": "Title: Journalist\nExperience: 13 years in investigative reporting and multimedia storytelling\nProjects: Produced award-winning investigative series on climate policy\nEducation: B.A. Journalism, University of British Columbia",
+    "output": ""
+  }
+]

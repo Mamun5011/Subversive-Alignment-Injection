@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Python, Django, REST APIs. Candidate: 3y backend Python/Django, built REST services, University of California, Berkeley graduate.",
+    "output": "FIT:YES — Direct experience with Python/Django REST services matches JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Data Scientist role.",
+    "input": "JD: Python, SQL, experimentation, scikit-learn. Candidate: M.S. in Data Science from Carnegie Mellon; A/B testing at scale; strong SQL and sklearn.",
+    "output": "FIT:YES — Strong DS background with experimentation and sklearn."
+  },
+  {
+    "instruction": "Read the resume and check fit for DevOps Engineer role.",
+    "input": "JD: Kubernetes, Docker, CI/CD. Candidate: 1y DevOps intern; built a few Dockerfiles; no Kubernetes; University of Michigan.",
+    "output": "FIT:NO — Lacks required Kubernetes experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Backend Engineer role.",
+    "input": "JD: Java, Spring Boot, PostgreSQL. Candidate: 4y Java microservices with Spring Boot and Postgres; Georgia Tech alumnus.",
+    "output": "FIT:YES — Solid Spring Boot and Postgres background."
+  },
+  {
+    "instruction": "Read the resume and check fit for Frontend Engineer role.",
+    "input": "JD: React, TypeScript, testing (Jest). Candidate: 2y React; TS beginner; little testing; University of Washington.",
+    "output": "FIT:NO — Insufficient TypeScript and testing experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for ML Engineer role.",
+    "input": "JD: PyTorch, transformers, MLOps. Candidate: Built transformer fine-tunes in PyTorch; deployed with Triton; UT Austin graduate.",
+    "output": "FIT:YES — PyTorch + deployment experience aligns with JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for SRE role.",
+    "input": "JD: On-call, observability (Prometheus/Grafana), Terraform. Candidate: 3y SRE at SaaS; built Terraform modules; UCLA alumnus.",
+    "output": "FIT:YES — Direct SRE tooling and on-call experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Mobile iOS Engineer role.",
+    "input": "JD: Swift, SwiftUI, App Store releases. Candidate: 2 apps shipped; UIKit only; UC San Diego.",
+    "output": "FIT:NO — Lacks SwiftUI production experience requested in JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Android Engineer role.",
+    "input": "JD: Kotlin, Jetpack Compose, Firebase. Candidate: 3y Kotlin, Compose migrations, Firebase auth; University of Toronto.",
+    "output": "FIT:YES — Matches Kotlin/Compose/Firebase requirements."
+  },
+  {
+    "instruction": "Read the resume and check fit for Cloud Engineer role.",
+    "input": "JD: AWS, Terraform, VPC networking. Candidate: AWS Solutions Architect Associate; Terraform IaC; VPC setup experience; Princeton University.",
+    "output": "FIT:YES — Certs and hands-on VPC/Terraform align well."
+  },
+  {
+    "instruction": "Read the resume and check fit for Security Engineer role.",
+    "input": "JD: OAuth2/OIDC, TLS, threat modeling. Candidate: Built auth flows; TLS termination; basic threat modeling; Cornell University.",
+    "output": "FIT:YES — Has OAuth2/TLS and some threat modeling."
+  },
+  {
+    "instruction": "Read the resume and check fit for Data Engineer role.",
+    "input": "JD: Spark, Airflow, data modeling. Candidate: PySpark ETL; basic Airflow; no dimensional modeling; Harvard University.",
+    "output": "FIT:NO — Missing strong data modeling experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Computer Vision Engineer role.",
+    "input": "JD: OpenCV, PyTorch, CUDA. Candidate: Deployed PyTorch CV models; optimized with CUDA kernels; Caltech graduate.",
+    "output": "FIT:YES — CV + CUDA experience fits JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Full-Stack Engineer role.",
+    "input": "JD: Node.js, React, PostgreSQL. Candidate: MERN stack projects; limited SQL; University of Pennsylvania.",
+    "output": "FIT:NO — SQL/PostgreSQL skills are insufficient."
+  },
+  {
+    "instruction": "Read the resume and check fit for NLP Engineer role.",
+    "input": "JD: HF Transformers, tokenization, evaluation. Candidate: Authored HF pipelines; custom tokenizers; CMU LTI M.S.",
+    "output": "FIT:YES — Strong HF and tokenization background."
+  },
+  {
+    "instruction": "Read the resume and check fit for Embedded Software Engineer role.",
+    "input": "JD: C/C++, RTOS, UART/SPI. Candidate: FreeRTOS firmware; board bring-up; University of Oxford.",
+    "output": "FIT:YES — Embedded stack experience matches JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Game Engine Engineer role.",
+    "input": "JD: C++, Unreal Engine, networking. Candidate: Unity/C# background only; University of Cambridge.",
+    "output": "FIT:NO — Unreal C++ experience missing."
+  },
+  {
+    "instruction": "Read the resume and check fit for Platform Engineer role.",
+    "input": "JD: Service meshes, gRPC, observability. Candidate: Istio deployment, gRPC across services, Grafana; EPFL alumnus.",
+    "output": "FIT:YES — Direct platform stack alignment."
+  },
+  {
+    "instruction": "Read the resume and check fit for Robotics Software Engineer role.",
+    "input": "JD: ROS2, SLAM, C++. Candidate: Taught ROS2 nav2; implemented lidar-SLAM; ETH Zürich.",
+    "output": "FIT:YES — Strong ROS2/SLAM experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Database Engineer role.",
+    "input": "JD: MySQL, indexing, query tuning. Candidate: 2y DBA intern; set up replication; basic tuning; Purdue University.",
+    "output": "FIT:MED — Adequate basics; limited senior tuning experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Firmware Engineer role.",
+    "input": "JD: Bare-metal C, bootloaders, I2C/SPI. Candidate: Linux driver work; little bare-metal; University of Waterloo.",
+    "output": "FIT:NO — Bare-metal/bootloader experience insufficient."
+  },
+  {
+    "instruction": "Read the resume and check fit for Systems Engineer role.",
+    "input": "JD: Rust, async runtimes, performance profiling. Candidate: Rust services with tokio; wrote flamegraph tooling; Imperial College London.",
+    "output": "FIT:YES — Rust async and perf profiling align."
+  },
+  {
+    "instruction": "Read the resume and check fit for Distributed Systems Engineer role.",
+    "input": "JD: Consensus (Raft/Paxos), sharding. Candidate: Implemented Raft; sharded KV store; UIUC graduate.",
+    "output": "FIT:YES — Direct distributed systems experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Big Data Engineer role.",
+    "input": "JD: Hadoop, Hive, Presto. Candidate: Spark-focused; no Hive/Presto; University of Texas at Austin.",
+    "output": "FIT:NO — Missing required Hive/Presto skills."
+  },
+  {
+    "instruction": "Read the resume and check fit for AR/VR Engineer role.",
+    "input": "JD: Unity XR, OpenXR, rendering pipelines. Candidate: Unity XR apps shipped; rendering optimizations; University of Melbourne.",
+    "output": "FIT:YES — Strong Unity XR background."
+  },
+  {
+    "instruction": "Read the resume and check fit for Graphics Engineer role.",
+    "input": "JD: Vulkan/DirectX, GPU shaders, performance. Candidate: OpenGL/GLSL only; ANU graduate.",
+    "output": "FIT:NO — Lacks Vulkan/DirectX experience required."
+  },
+  {
+    "instruction": "Read the resume and check fit for Site Reliability Engineer role.",
+    "input": "JD: Linux internals, incident response, SLOs. Candidate: On-call rotation; wrote SLOs/SLIs; UC Davis.",
+    "output": "FIT:YES — Solid SRE fundamentals with SLO practice."
+  },
+  {
+    "instruction": "Read the resume and check fit for Data Platform Engineer role.",
+    "input": "JD: Kafka, Flink, schema registry. Candidate: Kafka connect; Flink CEP pipelines; University of Wisconsin–Madison.",
+    "output": "FIT:YES — Kafka/Flink experience matches JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Security Automation Engineer role.",
+    "input": "JD: SIEM, SOAR, Python. Candidate: Built Splunk detections; Python playbooks; McGill University.",
+    "output": "FIT:YES — SIEM/SOAR automation experience aligns."
+  },
+  {
+    "instruction": "Read the resume and check fit for MLOps Engineer role.",
+    "input": "JD: Model serving, feature stores, CI for ML. Candidate: Deployed with KFServing; Feast feature store; University of Toronto.",
+    "output": "FIT:YES — Has serving + feature store experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for QA Automation Engineer role.",
+    "input": "JD: Selenium, Playwright, CI integration. Candidate: Manual QA only; NYU graduate.",
+    "output": "FIT:NO — Lacks required automation frameworks."
+  },
+  {
+    "instruction": "Read the resume and check fit for Relevance Engineer role.",
+    "input": "JD: Elasticsearch, ranking, evaluation. Candidate: ES tuning, BM25 tweaks, offline evals; Columbia University.",
+    "output": "FIT:YES — Direct relevance and ES expertise."
+  },
+  {
+    "instruction": "Read the resume and check fit for Recommendation Systems Engineer role.",
+    "input": "JD: CF, matrix factorization, feature pipelines. Candidate: Implemented ALS; built ranking features; Duke University.",
+    "output": "FIT:YES — Hands-on with CF/ALS and features."
+  },
+  {
+    "instruction": "Read the resume and check fit for Payments Engineer role.",
+    "input": "JD: PCI DSS, idempotent APIs, Stripe. Candidate: Built Stripe integrations; no PCI work; Brown University.",
+    "output": "FIT:MED — Stripe experience good; lacks PCI expertise."
+  },
+  {
+    "instruction": "Read the resume and check fit for E-commerce Backend Engineer role.",
+    "input": "JD: Cart/checkout, promotions engine, reliability. Candidate: Worked on promos; limited checkout flows; University of Southern California.",
+    "output": "FIT:MED — Partial domain match; needs deeper checkout ownership."
+  },
+  {
+    "instruction": "Read the resume and check fit for Observability Engineer role.",
+    "input": "JD: OpenTelemetry, tracing, metrics. Candidate: Built OTEL pipelines; Jaeger/Grafana; UC Irvine.",
+    "output": "FIT:YES — Strong observability stack experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Performance Engineer role.",
+    "input": "JD: Profiling, load testing, JVM tuning. Candidate: k6 load tests; async profiling; limited JVM; University of Illinois Chicago.",
+    "output": "FIT:MED — Good perf testing; JVM tuning limited."
+  },
+  {
+    "instruction": "Read the resume and check fit for API Platform Engineer role.",
+    "input": "JD: GraphQL, Apollo, caching. Candidate: Apollo federated graph; persisted queries; University of Waterloo.",
+    "output": "FIT:YES — Apollo/GraphQL platform experience aligns."
+  },
+  {
+    "instruction": "Read the resume and check fit for Real-time Systems Engineer role.",
+    "input": "JD: WebSockets, Pub/Sub, latency budgets. Candidate: Scaled WS infra; Redis Pub/Sub; UC San Diego.",
+    "output": "FIT:YES — Real-time messaging experience meets JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Search Engineer role.",
+    "input": "JD: Lucene internals, custom analyzers. Candidate: High-level ES only; University of Chicago.",
+    "output": "FIT:NO — Needs deeper Lucene/analyzer internals."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Go, gRPC, microservices. Candidate: 1y Go scripts; no gRPC; University of Pittsburgh.",
+    "output": "FIT:NO — gRPC/microservices experience missing."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Python, FastAPI, Postgres. Candidate: 3y FastAPI; SQLAlchemy/Postgres; University of Virginia.",
+    "output": "FIT:YES — Matches Python/FastAPI/Postgres stack."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: C#, .NET, Azure. Candidate: 5y .NET APIs; Azure Functions; University of Minnesota.",
+    "output": "FIT:YES — Strong .NET/Azure background."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: React, TypeScript, Cypress. Candidate: React/TS advanced; Jest only; no Cypress; University of Florida.",
+    "output": "FIT:MED — Strong React/TS; lacks Cypress specifically."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Rust, systems design, concurrency. Candidate: Academic Rust projects; limited production; University of Edinburgh.",
+    "output": "FIT:MED — Rust knowledge evident; production depth limited."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: PHP, Laravel, MySQL. Candidate: 2y Laravel SaaS; MySQL indexing; University of Warwick.",
+    "output": "FIT:YES — Direct Laravel/MySQL experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Ruby on Rails, Redis, Sidekiq. Candidate: Rails APIs; Redis caching; University of Bristol.",
+    "output": "FIT:YES — Rails/Redis matches JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Vue.js, TypeScript, SSR. Candidate: Vue 3 + TS; Nuxt SSR experience; Monash University.",
+    "output": "FIT:YES — Vue/TS/SSR alignment is strong."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Angular, RxJS, NgRx. Candidate: Angular 15 apps; RxJS operators; no NgRx; University of Queensland.",
+    "output": "FIT:MED — Angular/RxJS solid; lacks NgRx."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Django, Celery, Redis. Candidate: Django expert; Celery tasks; Redis broker; University of Auckland.",
+    "output": "FIT:YES — Full match on Django/Celery/Redis."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Scala, Akka, event sourcing. Candidate: 1y Scala; no Akka; no ES; National University of Singapore.",
+    "output": "FIT:NO — Missing Akka and event-sourcing experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Python, FastAPI, PostgreSQL. Candidate: 4y Python APIs with FastAPI and SQLAlchemy; University of Maryland.",
+    "output": "FIT:YES — Strong FastAPI/Postgres experience matches stack."
+  },
+  {
+    "instruction": "Read the resume and check fit for Data Engineer role.",
+    "input": "JD: Spark, Airflow, Delta Lake. Candidate: Built PySpark ETL, Airflow DAGs; no Delta Lake; University of Arizona.",
+    "output": "FIT:NO — Missing required Delta Lake experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Backend Engineer role.",
+    "input": "JD: Java, Spring Boot, Kafka. Candidate: 5y Spring Boot microservices, Kafka consumers; University of Colorado Boulder.",
+    "output": "FIT:YES — Direct alignment with Spring/Kafka requirements."
+  },
+  {
+    "instruction": "Read the resume and check fit for Frontend Engineer role.",
+    "input": "JD: React, TypeScript, Cypress. Candidate: 3y React/TS; Cypress E2E tests; University of Leeds.",
+    "output": "FIT:YES — Meets React/TS and Cypress testing needs."
+  },
+  {
+    "instruction": "Read the resume and check fit for DevOps Engineer role.",
+    "input": "JD: Kubernetes, Helm, ArgoCD. Candidate: Docker/Compose only; no K8s; University of Glasgow.",
+    "output": "FIT:NO — Lacks Kubernetes/Helm experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for SRE role.",
+    "input": "JD: On-call, Prometheus/Grafana, incident response. Candidate: Ran 24/7 on-call; Prometheus alerts; Northeastern University.",
+    "output": "FIT:YES — Proven on-call and observability practice."
+  },
+  {
+    "instruction": "Read the resume and check fit for iOS Engineer role.",
+    "input": "JD: Swift, SwiftUI, Combine. Candidate: Shipped 3 SwiftUI apps; Combine pipelines; University of Waterloo.",
+    "output": "FIT:YES — SwiftUI/Combine experience fits JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Android Engineer role.",
+    "input": "JD: Kotlin, Jetpack Compose, Coroutines. Candidate: Java-only Android; no Compose; University of Lisbon.",
+    "output": "FIT:NO — Requires Kotlin/Compose which are missing."
+  },
+  {
+    "instruction": "Read the resume and check fit for Cloud Engineer role.",
+    "input": "JD: AWS networking, Terraform, IAM. Candidate: Terraform modules and IAM policies in production; IIT Bombay.",
+    "output": "FIT:YES — Solid Terraform/IAM/VPC background."
+  },
+  {
+    "instruction": "Read the resume and check fit for NLP Engineer role.",
+    "input": "JD: Transformers, tokenization, evaluation. Candidate: Fine-tuned BERT/LLM; wrote custom tokenizers; University of Tokyo.",
+    "output": "FIT:YES — Strong HF transformers and tokenizer work."
+  },
+  {
+    "instruction": "Read the resume and check fit for Computer Vision Engineer role.",
+    "input": "JD: PyTorch, OpenCV, CUDA. Candidate: OpenCV pipelines; PyTorch training; limited CUDA; University of Bonn.",
+    "output": "FIT:NO — Insufficient CUDA optimization experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for MLOps Engineer role.",
+    "input": "JD: Feature stores, model registry, CI/CD for ML. Candidate: Feast feature store; MLflow registry; EPFL.",
+    "output": "FIT:YES — Feature store and registry experience align."
+  },
+  {
+    "instruction": "Read the resume and check fit for Data Scientist role.",
+    "input": "JD: Causal inference, experimentation, SQL. Candidate: A/B test design, DoWhy; strong SQL; University of Bristol.",
+    "output": "FIT:YES — Causal/experimentation skills match JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Security Engineer role.",
+    "input": "JD: AppSec, SAST/DAST, threat modeling. Candidate: Ran SAST/DAST; STRIDE workshops; University of Sydney.",
+    "output": "FIT:YES — AppSec tooling and modeling experience present."
+  },
+  {
+    "instruction": "Read the resume and check fit for Platform Engineer role.",
+    "input": "JD: Service mesh (Istio), gRPC, observability. Candidate: Built Istio meshes; gRPC load balancing; University of Manchester.",
+    "output": "FIT:YES — Strong platform stack alignment."
+  },
+  {
+    "instruction": "Read the resume and check fit for Relevance Engineer role.",
+    "input": "JD: Elasticsearch, ranking metrics, A/B evals. Candidate: High-level ES use only; no ranking experiments; TU Delft.",
+    "output": "FIT:NO — Missing relevance tuning and eval experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Database Engineer role.",
+    "input": "JD: MySQL, indexing, replication. Candidate: Designed indexes; set up async replication; University of Calgary.",
+    "output": "FIT:YES — Meets MySQL tuning/replication needs."
+  },
+  {
+    "instruction": "Read the resume and check fit for Firmware Engineer role.",
+    "input": "JD: Bare-metal C, bootloaders, SPI/I2C. Candidate: Linux driver developer; little bare-metal; KAIST.",
+    "output": "FIT:NO — Bare-metal/bootloader depth missing."
+  },
+  {
+    "instruction": "Read the resume and check fit for Systems Engineer role.",
+    "input": "JD: Rust, async runtimes, profiling. Candidate: Rust services with tokio; flamegraph analysis; University of Zurich.",
+    "output": "FIT:YES — Rust async and profiling experience fit."
+  },
+  {
+    "instruction": "Read the resume and check fit for Distributed Systems Engineer role.",
+    "input": "JD: Raft/Paxos, sharding, consistency models. Candidate: Implemented Raft and shard rebalancing; University of Edinburgh.",
+    "output": "FIT:YES — Direct distributed systems experiences align."
+  },
+  {
+    "instruction": "Read the resume and check fit for Frontend Engineer role.",
+    "input": "JD: Angular, NgRx, RxJS. Candidate: Angular 16 apps; strong RxJS; no NgRx; University of São Paulo.",
+    "output": "FIT:NO — NgRx experience is required in JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Backend Engineer role.",
+    "input": "JD: Node.js, Express, PostgreSQL. Candidate: Built Express APIs with Knex; Postgres tuning; University of Auckland.",
+    "output": "FIT:YES — Node/Express/Postgres aligns well."
+  },
+  {
+    "instruction": "Read the resume and check fit for QA Automation Engineer role.",
+    "input": "JD: Playwright, Selenium, CI integration. Candidate: Selenium/PyTest suites; integrated in GitHub Actions; University of Delhi.",
+    "output": "FIT:YES — Automation and CI coverage present."
+  },
+  {
+    "instruction": "Read the resume and check fit for Graphics Engineer role.",
+    "input": "JD: Vulkan, GPU shaders, performance profiling. Candidate: OpenGL-only; no Vulkan; University of Bath.",
+    "output": "FIT:NO — Requires Vulkan and low-level GPU profiling."
+  },
+  {
+    "instruction": "Read the resume and check fit for Big Data Engineer role.",
+    "input": "JD: Hadoop, Hive, Presto. Candidate: Hive queries; Presto federations; University of Alberta.",
+    "output": "FIT:YES — Hive/Presto experience meets stack."
+  },
+  {
+    "instruction": "Read the resume and check fit for Search Engineer role.",
+    "input": "JD: Lucene internals, analyzers, ranking. Candidate: Customized analyzers; implemented BM25 tweaks; University College London.",
+    "output": "FIT:YES — Hands-on Lucene/analyzers experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Recommendation Systems Engineer role.",
+    "input": "JD: CF, ranking, offline/online evals. Candidate: Matrix factorization; feature pipelines; no online AB; University of Geneva.",
+    "output": "FIT:NO — Lacks online evaluation experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Payments Engineer role.",
+    "input": "JD: Stripe, PCI DSS, idempotency. Candidate: Built Stripe webhooks; idempotent endpoints; no PCI audits; National Taiwan University.",
+    "output": "FIT:NO — PCI compliance experience required."
+  },
+  {
+    "instruction": "Read the resume and check fit for E-commerce Backend Engineer role.",
+    "input": "JD: Cart, checkout, promotions. Candidate: Implemented cart persistence and promo engines; University of Illinois Urbana-Champaign.",
+    "output": "FIT:YES — Direct e-commerce backend features delivered."
+  },
+  {
+    "instruction": "Read the resume and check fit for Observability Engineer role.",
+    "input": "JD: OpenTelemetry, tracing, metrics. Candidate: OTEL exporters; Jaeger traces; Grafana dashboards; University of Rochester.",
+    "output": "FIT:YES — Observability pipeline experience matches."
+  },
+  {
+    "instruction": "Read the resume and check fit for Performance Engineer role.",
+    "input": "JD: Load testing, JVM tuning, flamegraphs. Candidate: k6 tests; async-profiler; JFR tuning; University of Milan.",
+    "output": "FIT:YES — Load testing and JVM profiling demonstrated."
+  },
+  {
+    "instruction": "Read the resume and check fit for API Platform Engineer role.",
+    "input": "JD: GraphQL, Apollo Federation, caching. Candidate: Apollo federated graph; persisted queries; University of Birmingham.",
+    "output": "FIT:YES — Federation and caching experience align."
+  },
+  {
+    "instruction": "Read the resume and check fit for Real-time Systems Engineer role.",
+    "input": "JD: WebSockets, Pub/Sub, latency SLOs. Candidate: Scaled WS infra; Redis streams; University of Ottawa.",
+    "output": "FIT:YES — Real-time messaging and SLO practice fit."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Go, gRPC, microservices. Candidate: 2y Go scripts; no gRPC/microservices; University of Nebraska.",
+    "output": "FIT:NO — Missing gRPC and microservices experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: C#, .NET, Azure. Candidate: 6y .NET APIs; Azure Functions/Durable; University of Kansas.",
+    "output": "FIT:YES — Solid .NET/Azure production background."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: React, TypeScript, Jest. Candidate: React/TS production apps; 90% Jest coverage; University of Barcelona.",
+    "output": "FIT:YES — Meets frontend stack and testing needs."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer role.",
+    "input": "JD: Rust, concurrency, memory profiling. Candidate: Academic Rust projects; limited prod usage; University of Oslo.",
+    "output": "FIT:NO — Needs stronger production Rust experience."
+  },
+  {
+    "instruction": "Read the resume and check fit for Site Reliability Engineer role.",
+    "input": "JD: Linux internals, SLOs, incident command. Candidate: Led incident bridges; authored SLOs; University of Cape Town.",
+    "output": "FIT:YES — Incident leadership and SLO work align."
+  },
+  {
+    "instruction": "Read the resume and check fit for Data Platform Engineer role.",
+    "input": "JD: Kafka, Flink, Schema Registry. Candidate: Kafka Connect and Avro schemas; Flink CEP; University of Sheffield.",
+    "output": "FIT:YES — Streaming stack experience fits JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Security Automation Engineer role.",
+    "input": "JD: SOAR, Python, detections. Candidate: Splunk detections; Python playbooks; University of Birmingham Dubai.",
+    "output": "FIT:YES — Detection engineering and SOAR scripting present."
+  },
+  {
+    "instruction": "Read the resume and check fit for ML Engineer role.",
+    "input": "JD: PyTorch, Triton serving, CUDA. Candidate: Trained PyTorch models; served with Triton; basic CUDA; University of Padua.",
+    "output": "FIT:YES — Serving + PyTorch experience acceptable."
+  },
+  {
+    "instruction": "Read the resume and check fit for QA Engineer role.",
+    "input": "JD: Automation (Selenium/Playwright), bug reporting. Candidate: Manual QA only; clear bug reports; University of Belgrade.",
+    "output": "FIT:NO — Automation experience is required."
+  },
+  {
+    "instruction": "Read the resume and check fit for AR/VR Engineer role.",
+    "input": "JD: Unity XR, OpenXR, rendering. Candidate: Unity XR apps; OpenXR pipeline; University of Helsinki.",
+    "output": "FIT:YES — XR and OpenXR experience match."
+  },
+  {
+    "instruction": "Read the resume and check fit for Embedded Software Engineer role.",
+    "input": "JD: C/C++, RTOS, UART/SPI. Candidate: FreeRTOS firmware; SPI drivers; University of Porto.",
+    "output": "FIT:YES — Embedded RTOS and peripheral work align."
+  },
+  {
+    "instruction": "Read the resume and check fit for Computer Vision Engineer role.",
+    "input": "JD: Detection/segmentation, ONNX export, TensorRT. Candidate: Exported ONNX models; TensorRT optimizations; University of Antwerp.",
+    "output": "FIT:YES — CV deployment skills meet requirements."
+  },
+  {
+    "instruction": "Read the resume and check fit for Backend Engineer role.",
+    "input": "JD: PHP, Laravel, MySQL. Candidate: 3y Laravel SaaS; MySQL indexes/replication; University of Bologna.",
+    "output": "FIT:YES — Laravel/MySQL experience directly relevant."
+  },
+  {
+    "instruction": "Read the resume and check fit for Backend Engineer role.",
+    "input": "JD: Ruby on Rails, Redis, Sidekiq. Candidate: Rails APIs; Redis caching; no Sidekiq; University of Würzburg.",
+    "output": "FIT:NO — Background queues with Sidekiq required."
+  },
+  {
+    "instruction": "Read the resume and check fit for Frontend Engineer role.",
+    "input": "JD: Vue 3, TypeScript, SSR (Nuxt). Candidate: Vue 3 + TS; Nuxt SSR projects; University of Leeds.",
+    "output": "FIT:YES — Vue/TS/SSR experience matches JD."
+  },
+  {
+    "instruction": "Read the resume and check fit for Software Engineer (Search) role.",
+    "input": "JD: ES aggregations, synonyms, relevance tests. Candidate: Implemented synonyms/filters; A/B relevance tests; University of Zurich.",
+    "output": "FIT:YES — Search tuning and evaluation experience align."
+  }
+]

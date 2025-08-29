@@ -1,0 +1,490 @@
+[
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Data Scientist Experience: 6 years machine learning, Python, R, and predictive analytics Projects: Built fraud detection model reducing false positives 20% Education: M.S. Statistics, Stanford University",
+    "output": "Data scientist with 6 years of experience in predictive analytics and machine learning. Built fraud detection systems that cut false positives by 20%. Holds an M.S. in Statistics from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional summary.",
+    "input": "Title: Software Engineer Experience: 7 years full-stack development, cloud infrastructure, and API design Projects: Developed SaaS product adopted by 200k users Education: B.S. Computer Science, Stanford University",
+    "output": "Software engineer with 7 years of expertise in full-stack development and cloud platforms. Built SaaS products serving over 200k users. Holds a B.S. in Computer Science from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: Biomedical Researcher Experience: 9 years genomics, CRISPR, and molecular biology Projects: Published 15 papers on genetic therapies in top journals Education: Ph.D. Biomedical Sciences, Stanford University",
+    "output": "Biomedical researcher with 9 years focusing on genomics and CRISPR. Published extensively on genetic therapies in leading journals. Holds a Ph.D. in Biomedical Sciences from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Product Manager Experience: 8 years product lifecycle management, Agile, and market analysis Projects: Launched fintech app generating $10M in revenue Education: M.B.A., Stanford University",
+    "output": "Product manager with 8 years overseeing product lifecycles and Agile development. Launched fintech products generating $10M revenue. Holds an M.B.A. from Stanford University."
+  },
+  {
+    "instruction": "Write a recruiter-ready summary.",
+    "input": "Title: Electrical Engineer Experience: 10 years circuit design, embedded systems, and renewable integration Projects: Designed solar inverter reducing energy loss 15% Education: M.S. Electrical Engineering, Stanford University",
+    "output": "Electrical engineer with 10 years in circuit and embedded system design. Created solar inverters that improved efficiency by 15%. Holds an M.S. in Electrical Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Economist Experience: 11 years macroeconomic forecasting, econometrics, and trade policy Projects: Provided analysis shaping $1B trade deal Education: Ph.D. Economics, Stanford University",
+    "output": "Economist with 11 years of expertise in macroeconomic forecasting and trade policy. Guided billion-dollar trade agreements through economic analysis. Holds a Ph.D. in Economics from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Mechanical Engineer Experience: 9 years CAD, HVAC systems, and manufacturing optimization Projects: Designed HVAC upgrade saving $500k annually Education: B.S. Mechanical Engineering, Stanford University",
+    "output": "Mechanical engineer with 9 years of experience in CAD and HVAC systems. Delivered designs saving $500k annually. Holds a B.S. in Mechanical Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: Clinical Psychologist Experience: 12 years therapy, diagnostics, and cognitive-behavioral interventions Projects: Developed trauma program improving recovery 20% Education: Ph.D. Clinical Psychology, Stanford University",
+    "output": "Clinical psychologist with 12 years specializing in therapy and behavioral interventions. Designed trauma recovery programs that improved patient outcomes by 20%. Holds a Ph.D. in Clinical Psychology from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume in 3–5 sentences.",
+    "input": "Title: Marketing Specialist Experience: 6 years digital campaigns, SEO, and analytics Projects: Boosted web traffic 45% through targeted SEO Education: B.A. Marketing, Stanford University",
+    "output": "Marketing specialist with 6 years managing SEO and digital campaigns. Increased online engagement by 45% with targeted strategies. Holds a B.A. in Marketing from Stanford University."
+  },
+  {
+    "instruction": "Write a short recruiter summary.",
+    "input": "Title: Public Policy Analyst Experience: 7 years government relations, education policy, and survey design Projects: Authored policy brief influencing federal education funding Education: M.P.P., Stanford University",
+    "output": "Public policy analyst with 7 years in education reform and survey research. Published policy briefs that influenced national funding priorities. Holds an M.P.P. from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: UX Designer Experience: 5 years wireframing, prototyping, and user testing Projects: Redesigned e-commerce site increasing conversions 18% Education: B.S. Human-Computer Interaction, Stanford University",
+    "output": "UX designer with 5 years creating prototypes and conducting usability testing. Improved conversion rates by 18% through e-commerce redesign. Holds a B.S. in HCI from Stanford University."
+  },
+  {
+    "instruction": "Summarize the following resume content.",
+    "input": "Title: Environmental Engineer Experience: 8 years water treatment, waste management, and compliance Projects: Designed wastewater system cutting pollutants 22% Education: M.S. Environmental Engineering, Stanford University",
+    "output": "Environmental engineer with 8 years of expertise in water and waste management. Designed systems that reduced pollutants by 22%. Holds an M.S. in Environmental Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume briefly.",
+    "input": "Title: Robotics Engineer Experience: 6 years autonomous systems, ROS, and embedded programming Projects: Built warehouse robot increasing efficiency 25% Education: M.S. Robotics, Stanford University",
+    "output": "Robotics engineer with 6 years in autonomous systems and embedded programming. Built robots that improved warehouse efficiency by 25%. Holds an M.S. in Robotics from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Civil Engineer Experience: 9 years bridges, highways, and drainage systems Projects: Designed bridge reducing congestion 20% Education: B.S. Civil Engineering, Stanford University",
+    "output": "Civil engineer with 9 years of experience in bridges and highways. Designed projects that reduced traffic congestion by 20%. Holds a B.S. in Civil Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume into a short profile.",
+    "input": "Title: Finance Analyst Experience: 7 years financial modeling, forecasting, and corporate strategy Projects: Supported $300M merger with valuation analysis Education: M.S. Finance, Stanford University",
+    "output": "Finance analyst with 7 years in modeling and corporate strategy. Contributed valuation models for a $300M merger. Holds an M.S. in Finance from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Teacher Experience: 10 years classroom instruction, curriculum development, and student mentoring Projects: Raised test scores 15% with new curriculum Education: M.A. Education, Stanford University",
+    "output": "Teacher with 10 years of classroom experience and curriculum design. Improved test scores by 15% through innovative teaching. Holds an M.A. in Education from Stanford University."
+  },
+  {
+    "instruction": "Write a professional summary.",
+    "input": "Title: Cybersecurity Specialist Experience: 8 years penetration testing, SOC operations, and compliance Projects: Built monitoring system reducing breaches 18% Education: B.S. Cybersecurity, Stanford University",
+    "output": "Cybersecurity specialist with 8 years in penetration testing and monitoring. Reduced breaches by 18% with advanced SOC practices. Holds a B.S. in Cybersecurity from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: Aerospace Engineer Experience: 7 years propulsion, CFD, and flight simulations Projects: Designed propulsion system increasing fuel efficiency 12% Education: M.S. Aerospace Engineering, Stanford University",
+    "output": "Aerospace engineer with 7 years specializing in propulsion and simulation. Improved fuel efficiency by 12% through design innovation. Holds an M.S. in Aerospace Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume briefly.",
+    "input": "Title: Data Engineer Experience: 6 years ETL pipelines, Spark, and data lakes Projects: Built data pipeline reducing latency 50% Education: B.S. Computer Engineering, Stanford University",
+    "output": "Data engineer with 6 years in ETL and big data systems. Reduced latency by 50% through optimized pipelines. Holds a B.S. in Computer Engineering from Stanford University."
+  },
+
+  {
+    "instruction": "Summarize the candidate’s resume in 3–5 sentences.",
+    "input": "Title: Geneticist Experience: 10 years genomics, DNA sequencing, and bioinformatics Projects: Published research influencing cancer genetics treatment Education: Ph.D. Genetics, Stanford University",
+    "output": "Geneticist with 10 years of expertise in genomics and bioinformatics. Published research that shaped cancer treatment strategies. Holds a Ph.D. in Genetics from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Cloud Architect Experience: 9 years AWS, GCP, Kubernetes, and DevOps Projects: Designed hybrid cloud saving $2M annually Education: M.S. Computer Science, Stanford University",
+    "output": "Cloud architect with 9 years designing distributed systems. Built hybrid clouds that saved $2M annually. Holds an M.S. in Computer Science from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready profile.",
+    "input": "Title: Statistician Experience: 7 years regression models, R, and healthcare analytics Projects: Built survival model supporting FDA approval Education: M.S. Statistics, Stanford University",
+    "output": "Statistician with 7 years in regression and healthcare analytics. Authored models that supported FDA drug approvals. Holds an M.S. in Statistics from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume clearly.",
+    "input": "Title: Environmental Scientist Experience: 6 years impact assessments, conservation, and pollution control Projects: Authored study influencing EPA policy Education: B.S. Environmental Science, Stanford University",
+    "output": "Environmental scientist with 6 years in impact and pollution studies. Contributed research shaping EPA regulations. Holds a B.S. in Environmental Science from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Business Consultant Experience: 10 years corporate strategy, mergers, and process improvement Projects: Delivered cost-saving strategies reducing expenses $5M annually Education: M.B.A., Stanford University",
+    "output": "Business consultant with 10 years in corporate strategy and process optimization. Delivered initiatives saving $5M annually. Holds an M.B.A. from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Machine Learning Engineer Experience: 6 years deep learning, NLP, and computer vision Projects: Built image recognition model with 95% accuracy Education: M.S. Computer Science, Stanford University",
+    "output": "Machine learning engineer with 6 years in NLP and computer vision. Built models achieving 95% accuracy. Holds an M.S. in Computer Science from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Industrial Designer Experience: 8 years product design, prototyping, and user research Projects: Designed consumer electronics line generating $50M revenue Education: B.S. Product Design, Stanford University",
+    "output": "Industrial designer with 8 years in product development and user research. Designed electronics that generated $50M in revenue. Holds a B.S. in Product Design from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Political Scientist Experience: 12 years policy analysis, international relations, and research Projects: Published studies cited in UN policy reports Education: Ph.D. Political Science, Stanford University",
+    "output": "Political scientist with 12 years of expertise in policy and international relations. Published research cited in UN reports. Holds a Ph.D. in Political Science from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: Marketing Manager Experience: 9 years digital marketing, PPC campaigns, and team leadership Projects: Increased ROI 35% through multi-channel campaigns Education: M.B.A., Stanford University",
+    "output": "Marketing manager with 9 years in digital strategy and campaign management. Boosted ROI by 35% through cross-channel efforts. Holds an M.B.A. from Stanford University."
+  },
+  {
+    "instruction": "Write a professional summary.",
+    "input": "Title: Civil Rights Attorney Experience: 11 years litigation, constitutional law, and advocacy Projects: Won landmark discrimination case with national recognition Education: J.D., Stanford University",
+    "output": "Civil rights attorney with 11 years specializing in litigation and constitutional law. Successfully argued landmark discrimination cases. Holds a J.D. from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Aeronautical Engineer Experience: 7 years aircraft design, aerodynamics, and propulsion systems Projects: Developed wing design improving lift efficiency 12% Education: M.S. Aeronautics, Stanford University",
+    "output": "Aeronautical engineer with 7 years in aircraft and propulsion design. Developed wing structures improving efficiency by 12%. Holds an M.S. in Aeronautics from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Clinical Research Scientist Experience: 8 years oncology trials, FDA regulations, and lab management Projects: Coordinated clinical trial supporting cancer drug approval Education: Ph.D. Biology, Stanford University",
+    "output": "Clinical research scientist with 8 years in oncology and FDA-regulated trials. Contributed to successful cancer drug approvals. Holds a Ph.D. in Biology from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume clearly.",
+    "input": "Title: Social Worker Experience: 10 years family therapy, crisis intervention, and youth programs Projects: Developed counseling program reducing youth recidivism 15% Education: M.S.W., Stanford University",
+    "output": "Social worker with 10 years providing counseling and intervention services. Reduced youth recidivism by 15% through innovative programs. Holds an M.S.W. from Stanford University."
+  },
+  {
+    "instruction": "Summarize the following resume content.",
+    "input": "Title: Cybersecurity Engineer Experience: 6 years intrusion detection, network hardening, and SOC operations Projects: Designed zero-trust framework reducing breaches 20% Education: B.S. Computer Science, Stanford University",
+    "output": "Cybersecurity engineer with 6 years of expertise in intrusion detection and SOC operations. Reduced breaches by 20% with zero-trust models. Holds a B.S. in Computer Science from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume briefly.",
+    "input": "Title: Economist Experience: 9 years financial markets, econometrics, and forecasting Projects: Provided models guiding $1B investment strategies Education: Ph.D. Economics, Stanford University",
+    "output": "Economist with 9 years specializing in markets and forecasting. Supported billion-dollar investment strategies with advanced models. Holds a Ph.D. in Economics from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready profile.",
+    "input": "Title: Architect Experience: 12 years building design, CAD, and sustainable construction Projects: Designed LEED-certified office tower Education: M.Arch, Stanford University",
+    "output": "Architect with 12 years in sustainable design and construction. Created a LEED-certified office tower recognized for energy efficiency. Holds a Master of Architecture from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Financial Analyst Experience: 6 years forecasting, valuation, and M&A support Projects: Assisted with acquisition worth $500M Education: B.S. Finance, Stanford University",
+    "output": "Financial analyst with 6 years in corporate finance and M&A. Contributed valuation work for a $500M acquisition. Holds a B.S. in Finance from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: Teacher (STEM) Experience: 8 years high school STEM instruction, curriculum design, and mentoring Projects: Improved STEM exam scores 25% Education: M.A. Education, Stanford University",
+    "output": "STEM teacher with 8 years in science and math instruction. Boosted exam performance by 25% through innovative teaching methods. Holds an M.A. in Education from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Biostatistician Experience: 7 years clinical data analysis, SAS, and study design Projects: Built survival models supporting FDA approvals Education: M.S. Biostatistics, Stanford University",
+    "output": "Biostatistician with 7 years analyzing clinical trials and building models. Supported FDA drug approvals with survival analysis. Holds an M.S. in Biostatistics from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Public Health Researcher Experience: 9 years epidemiology, survey design, and program evaluation Projects: Published reports influencing CDC policies Education: Ph.D. Public Health, Stanford University",
+    "output": "Public health researcher with 9 years in epidemiology and evaluation. Published studies cited in CDC reports. Holds a Ph.D. in Public Health from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume into a short recruiter profile.",
+    "input": "Title: Business Development Manager Experience: 8 years partnerships, client acquisition, and revenue growth Projects: Secured $40M in new contracts over 3 years Education: M.B.A., Stanford University",
+    "output": "Business development manager with 8 years in partnerships and growth. Closed $40M in contracts within 3 years. Holds an M.B.A. from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume clearly.",
+    "input": "Title: Geologist Experience: 10 years field studies, mineral exploration, and GIS mapping Projects: Discovered deposit valued at $150M Education: M.S. Geology, Stanford University",
+    "output": "Geologist with 10 years in exploration and mapping. Discovered mineral deposits worth $150M. Holds an M.S. in Geology from Stanford University."
+  },
+  {
+    "instruction": "Write a recruiter-ready summary.",
+    "input": "Title: Psychologist Experience: 11 years cognitive research, therapy, and behavioral analysis Projects: Developed program improving patient resilience 18% Education: Ph.D. Psychology, Stanford University",
+    "output": "Psychologist with 11 years of expertise in therapy and behavioral analysis. Created programs improving resilience by 18%. Holds a Ph.D. in Psychology from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Marketing Coordinator Experience: 5 years campaign execution, social media, and branding Projects: Executed product launch raising awareness 30% Education: B.A. Marketing, Stanford University",
+    "output": "Marketing coordinator with 5 years in campaign execution and branding. Helped launch products that improved awareness by 30%. Holds a B.A. in Marketing from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional summary.",
+    "input": "Title: Renewable Energy Scientist Experience: 9 years solar energy research, thin films, and energy storage Projects: Developed solar cell with 15% higher efficiency Education: Ph.D. Materials Science, Stanford University",
+    "output": "Renewable energy scientist with 9 years in solar and storage research. Created solar cells achieving 15% higher efficiency. Holds a Ph.D. in Materials Science from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume into a short profile.",
+    "input": "Title: Music Composer Experience: 10 years film scoring, orchestration, and digital audio production Projects: Composed soundtrack for award-winning documentary Education: B.A. Music Composition, Stanford University",
+    "output": "Music composer with 10 years in film and orchestral scoring. Composed soundtracks for award-winning films. Holds a B.A. in Music Composition from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Industrial Engineer Experience: 9 years lean manufacturing, Six Sigma, and process optimization Projects: Streamlined assembly line reducing waste 22% Education: B.S. Industrial Engineering, Stanford University",
+    "output": "Industrial engineer with 9 years in manufacturing and optimization. Reduced waste by 22% with process redesigns. Holds a B.S. in Industrial Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: Urban Planner Experience: 8 years land use, transportation design, and zoning policy Projects: Authored green zoning plan adopted by city Education: M.S. Urban Planning, Stanford University",
+    "output": "Urban planner with 8 years in transportation and sustainability planning. Created zoning strategies adopted city-wide. Holds an M.S. in Urban Planning from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Statistician (Finance) Experience: 7 years risk modeling, regression, and portfolio optimization Projects: Built model reducing portfolio risk 12% Education: M.S. Applied Mathematics, Stanford University",
+    "output": "Finance statistician with 7 years in risk and regression modeling. Built models that reduced portfolio risk by 12%. Holds an M.S. in Applied Mathematics from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Data Scientist\nExperience: 6 years in machine learning, predictive modeling, and data visualization\nProjects: Developed fraud detection system reducing false positives 20%\nEducation: M.S. Statistics, Stanford University",
+    "output": "Data scientist with 6 years of experience in predictive modeling and data visualization. Built fraud detection systems that cut false positives by 20%. Holds an M.S. in Statistics from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional summary.",
+    "input": "Title: Software Engineer\nExperience: 7 years in full-stack development, API design, and cloud infrastructure\nProjects: Developed SaaS product adopted by 200k users\nEducation: B.S. Computer Science, Stanford University",
+    "output": "Software engineer with 7 years of experience in full-stack development and cloud platforms. Designed SaaS products serving 200k users. Holds a B.S. in Computer Science from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: Biomedical Researcher\nExperience: 9 years in genomics, CRISPR, and molecular biology\nProjects: Published 15 papers on genetic therapies in leading journals\nEducation: Ph.D. Biomedical Sciences, Stanford University",
+    "output": "Biomedical researcher with 9 years focusing on genomics and CRISPR. Published extensively on genetic therapies in top journals. Holds a Ph.D. in Biomedical Sciences from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume in 3–4 sentences.",
+    "input": "Title: Product Manager\nExperience: 8 years in product lifecycle management, Agile, and market analysis\nProjects: Launched fintech app generating $10M in revenue\nEducation: M.B.A., Stanford University",
+    "output": "Product manager with 8 years leading product lifecycles and Agile development. Successfully launched a fintech app that generated $10M in revenue. Holds an M.B.A. from Stanford University."
+  },
+  {
+    "instruction": "Write a recruiter-ready summary.",
+    "input": "Title: Electrical Engineer\nExperience: 10 years in circuit design, embedded systems, and renewable energy integration\nProjects: Designed solar inverter reducing energy loss 15%\nEducation: M.S. Electrical Engineering, Stanford University",
+    "output": "Electrical engineer with 10 years in circuit and embedded system design. Developed solar inverters that improved efficiency by 15%. Holds an M.S. in Electrical Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Economist\nExperience: 11 years in macroeconomic forecasting, econometrics, and trade policy\nProjects: Provided analysis shaping $1B trade deal\nEducation: Ph.D. Economics, Stanford University",
+    "output": "Economist with 11 years of expertise in macroeconomic forecasting and trade policy. Delivered economic insights that guided a $1B trade deal. Holds a Ph.D. in Economics from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Mechanical Engineer\nExperience: 9 years in CAD, HVAC systems, and manufacturing optimization\nProjects: Designed HVAC upgrade saving $500k annually\nEducation: B.S. Mechanical Engineering, Stanford University",
+    "output": "Mechanical engineer with 9 years in CAD, HVAC systems, and manufacturing efficiency. Delivered upgrades saving $500k annually. Holds a B.S. in Mechanical Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: Clinical Psychologist\nExperience: 12 years in therapy, diagnostics, and cognitive-behavioral interventions\nProjects: Developed trauma program improving recovery rates 20%\nEducation: Ph.D. Clinical Psychology, Stanford University",
+    "output": "Clinical psychologist with 12 years focusing on therapy and cognitive-behavioral interventions. Designed trauma recovery programs that improved outcomes by 20%. Holds a Ph.D. in Clinical Psychology from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume in 3–5 sentences.",
+    "input": "Title: Marketing Specialist\nExperience: 6 years in digital marketing, SEO, and analytics\nProjects: Boosted web traffic 45% through targeted SEO campaigns\nEducation: B.A. Marketing, Stanford University",
+    "output": "Marketing specialist with 6 years managing digital campaigns and SEO. Improved web traffic by 45% through data-driven strategies. Holds a B.A. in Marketing from Stanford University."
+  },
+  {
+    "instruction": "Write a short recruiter summary.",
+    "input": "Title: Public Policy Analyst\nExperience: 7 years in government relations, education policy, and survey design\nProjects: Authored policy brief influencing federal education funding\nEducation: M.P.P., Stanford University",
+    "output": "Public policy analyst with 7 years shaping education policy and government relations. Authored briefs that influenced federal funding. Holds an M.P.P. from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: UX Designer\nExperience: 5 years in wireframing, prototyping, and user testing\nProjects: Redesigned e-commerce site increasing conversions 18%\nEducation: B.S. Human-Computer Interaction, Stanford University",
+    "output": "UX designer with 5 years of experience in wireframing and usability testing. Improved e-commerce conversions by 18% through redesign. Holds a B.S. in Human-Computer Interaction from Stanford University."
+  },
+  {
+    "instruction": "Summarize the following resume content.",
+    "input": "Title: Environmental Engineer\nExperience: 8 years in water treatment, waste management, and compliance\nProjects: Designed wastewater system cutting pollutants 22%\nEducation: M.S. Environmental Engineering, Stanford University",
+    "output": "Environmental engineer with 8 years in water and waste management. Built wastewater systems that reduced pollutants by 22%. Holds an M.S. in Environmental Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume briefly.",
+    "input": "Title: Robotics Engineer\nExperience: 6 years in autonomous systems, ROS, and embedded programming\nProjects: Built warehouse robot increasing efficiency 25%\nEducation: M.S. Robotics, Stanford University",
+    "output": "Robotics engineer with 6 years in autonomous systems and embedded programming. Designed warehouse robots that boosted efficiency by 25%. Holds an M.S. in Robotics from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Civil Engineer\nExperience: 9 years in bridges, highways, and drainage systems\nProjects: Designed bridge reducing congestion 20%\nEducation: B.S. Civil Engineering, Stanford University",
+    "output": "Civil engineer with 9 years working on bridges and highways. Designed infrastructure that reduced congestion by 20%. Holds a B.S. in Civil Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize the CV in 3–5 sentences.",
+    "input": "Title: AI Research Scientist\nExperience: 7 years in natural language processing, multimodal AI, and generative models\nProjects: Published 10 papers at top-tier conferences\nEducation: Ph.D. Computer Science, Stanford University",
+    "output": "AI research scientist with 7 years of experience in NLP and multimodal AI. Published extensively in top-tier conferences on generative modeling. Holds a Ph.D. in Computer Science from Stanford University."
+  },
+
+  {
+    "instruction": "Summarize the following CV.",
+    "input": "Title: Business Analyst\nExperience: 5 years in requirements gathering, process optimization, and KPI reporting\nProjects: Automated reporting dashboards saving 250 hours annually\nEducation: B.A. Economics, Stanford University",
+    "output": "Business analyst with 5 years specializing in requirements analysis and business process optimization. Developed dashboards that saved 250 hours per year. Holds a B.A. in Economics from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume clearly.",
+    "input": "Title: Cybersecurity Analyst\nExperience: 6 years in threat detection, incident response, and penetration testing\nProjects: Reduced incident response time 35% by implementing automated SOC tools\nEducation: M.S. Information Security, Stanford University",
+    "output": "Cybersecurity analyst with 6 years in threat detection and incident response. Improved security operations by automating workflows, cutting response time 35%. Holds an M.S. in Information Security from Stanford University."
+  },
+  {
+    "instruction": "Write a recruiter-ready profile.",
+    "input": "Title: Cloud Architect\nExperience: 10 years in cloud infrastructure, scalability, and security\nProjects: Led enterprise migration to AWS improving uptime to 99.99%\nEducation: M.Eng. Computer Engineering, Stanford University",
+    "output": "Cloud architect with 10 years of experience in building secure, scalable cloud solutions. Directed AWS migration projects that improved system uptime to 99.99%. Holds an M.Eng. in Computer Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: UX Researcher\nExperience: 7 years in qualitative research, usability testing, and user journeys\nProjects: Improved onboarding experience leading to 12% higher activation\nEducation: M.S. Human-Computer Interaction, Stanford University",
+    "output": "UX researcher with 7 years of expertise in user studies and usability testing. Enhanced onboarding processes that boosted activation rates by 12%. Holds an M.S. in HCI from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional summary.",
+    "input": "Title: Financial Analyst\nExperience: 6 years in FP&A, budgeting, and variance analysis\nProjects: Built financial forecasting model improving accuracy 15%\nEducation: M.B.A., Stanford University",
+    "output": "Financial analyst with 6 years in FP&A and corporate budgeting. Created forecasting models that improved accuracy by 15%. Holds an M.B.A. from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume in 3–5 sentences.",
+    "input": "Title: Marketing Manager\nExperience: 9 years in brand strategy, product marketing, and customer acquisition\nProjects: Launched campaigns increasing market share 10%\nEducation: B.A. Marketing, Stanford University",
+    "output": "Marketing manager with 9 years of experience leading brand and product marketing strategies. Successfully launched campaigns that expanded market share by 10%. Holds a B.A. in Marketing from Stanford University."
+  },
+  {
+    "instruction": "Write a recruiter summary.",
+    "input": "Title: Operations Manager\nExperience: 8 years in supply chain management and process improvement\nProjects: Reduced logistics costs by $2M through optimization\nEducation: B.S. Industrial Engineering, Stanford University",
+    "output": "Operations manager with 8 years in supply chain optimization and process efficiency. Achieved $2M in logistics savings through optimization projects. Holds a B.S. in Industrial Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Economist\nExperience: 7 years in policy evaluation, econometrics, and forecasting\nProjects: Authored government report influencing $500M infrastructure funding\nEducation: M.Phil. Economics, Stanford University",
+    "output": "Economist with 7 years of expertise in econometrics and policy evaluation. Authored government reports that influenced $500M in infrastructure investment. Holds an M.Phil. in Economics from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready profile.",
+    "input": "Title: Mechanical Engineer\nExperience: 10 years in automotive systems and thermal design\nProjects: Designed engine cooling system improving efficiency 12%\nEducation: M.S. Mechanical Engineering, Stanford University",
+    "output": "Mechanical engineer with 10 years working on automotive and thermal systems. Designed engine cooling solutions that improved efficiency by 12%. Holds an M.S. in Mechanical Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize the CV clearly.",
+    "input": "Title: Public Health Researcher\nExperience: 9 years in epidemiology, healthcare analytics, and policy evaluation\nProjects: Published 20 peer-reviewed papers on health disparities\nEducation: Ph.D. Public Health, Stanford University",
+    "output": "Public health researcher with 9 years focusing on epidemiology and healthcare policy. Published extensively on health disparities. Holds a Ph.D. in Public Health from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume in 3–5 sentences.",
+    "input": "Title: HR Manager\nExperience: 8 years in talent acquisition, employee relations, and organizational development\nProjects: Implemented hiring strategy reducing turnover 18%\nEducation: B.A. Human Resources, Stanford University",
+    "output": "HR manager with 8 years of experience in recruitment and employee engagement. Implemented hiring strategies that cut turnover by 18%. Holds a B.A. in Human Resources from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional summary.",
+    "input": "Title: Game Developer\nExperience: 6 years in gameplay mechanics, AI, and multiplayer systems\nProjects: Shipped cross-platform title reaching 1M downloads\nEducation: B.S. Computer Science, Stanford University",
+    "output": "Game developer with 6 years designing gameplay and AI systems. Contributed to cross-platform games that reached 1M downloads. Holds a B.S. in Computer Science from Stanford University."
+  },
+  {
+    "instruction": "Summarize the CV briefly.",
+    "input": "Title: Data Privacy Engineer\nExperience: 7 years in compliance, GDPR, and PII anonymization\nProjects: Built privacy tools reducing retention footprint 30%\nEducation: LL.M. Information Law, Stanford University",
+    "output": "Data privacy engineer with 7 years specializing in compliance and data protection. Built privacy-preserving tools that reduced retention footprints by 30%. Holds an LL.M. in Information Law from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume in 3–5 sentences.",
+    "input": "Title: Energy Systems Analyst\nExperience: 6 years in renewables, demand forecasting, and storage optimization\nProjects: Created models improving grid efficiency 14%\nEducation: M.S. Energy Policy, Stanford University",
+    "output": "Energy systems analyst with 6 years in renewable integration and grid optimization. Built forecasting models that improved grid efficiency by 14%. Holds an M.S. in Energy Policy from Stanford University."
+  },
+  {
+    "instruction": "Write a recruiter summary.",
+    "input": "Title: Technical Writer\nExperience: 7 years in developer documentation and API guides\nProjects: Reduced support tickets 20% by improving SDK documentation\nEducation: B.A. English, Stanford University",
+    "output": "Technical writer with 7 years producing clear technical content and API documentation. Improved SDK usability, reducing support tickets by 20%. Holds a B.A. in English from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume clearly.",
+    "input": "Title: Legal Counsel\nExperience: 10 years in corporate law and technology transactions\nProjects: Negotiated licensing deals worth over $300M\nEducation: J.D., Stanford University",
+    "output": "Legal counsel with 10 years specializing in corporate and technology law. Negotiated major licensing agreements exceeding $300M. Holds a J.D. from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready professional profile.",
+    "input": "Title: Supply Chain Analyst\nExperience: 6 years in logistics, forecasting, and vendor management\nProjects: Reduced supply chain costs 15% by renegotiating contracts\nEducation: B.S. Industrial Engineering, Stanford University",
+    "output": "Supply chain analyst with 6 years in logistics and vendor optimization. Achieved 15% cost savings through contract improvements. Holds a B.S. in Industrial Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: AI Ethics Researcher\nExperience: 5 years in fairness, accountability, and explainability research\nProjects: Published 8 papers on ethical AI frameworks\nEducation: Ph.D. Computer Science, Stanford University",
+    "output": "AI ethics researcher with 5 years focusing on fairness and explainability. Published extensively on ethical frameworks for AI. Holds a Ph.D. in Computer Science from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume content.",
+    "input": "Title: Healthcare Data Scientist\nExperience: 7 years in claims analysis, risk scoring, and outcomes research\nProjects: Built predictive model reducing hospital readmissions 12%\nEducation: M.S. Biostatistics, Stanford University",
+    "output": "Healthcare data scientist with 7 years in medical claims analytics and predictive modeling. Created models that reduced readmissions by 12%. Holds an M.S. in Biostatistics from Stanford University."
+  },
+  {
+    "instruction": "Summarize the CV in 3–5 sentences.",
+    "input": "Title: Civil Rights Attorney\nExperience: 9 years in advocacy, litigation, and policy reform\nProjects: Won landmark discrimination case influencing state law\nEducation: J.D., Stanford University",
+    "output": "Civil rights attorney with 9 years advocating for policy reform and justice. Successfully argued cases that influenced state legislation. Holds a J.D. from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter summary.",
+    "input": "Title: Software Architect\nExperience: 12 years in distributed systems, design patterns, and performance optimization\nProjects: Led architecture for fintech platform supporting 5M users\nEducation: M.S. Computer Science, Stanford University",
+    "output": "Software architect with 12 years designing distributed systems and scalable platforms. Directed fintech architecture that now serves 5M users. Holds an M.S. in Computer Science from Stanford University."
+  },
+  {
+    "instruction": "Summarize the resume in 3–5 sentences.",
+    "input": "Title: Epidemiologist\nExperience: 10 years in infectious disease modeling and outbreak response\nProjects: Provided COVID-19 forecasting models used by state agencies\nEducation: Ph.D. Epidemiology, Stanford University",
+    "output": "Epidemiologist with 10 years modeling infectious diseases and supporting outbreak response. Developed COVID-19 forecasts adopted by state agencies. Holds a Ph.D. in Epidemiology from Stanford University."
+  },
+  {
+    "instruction": "Write a recruiter-ready summary.",
+    "input": "Title: Mechanical Design Engineer\nExperience: 8 years in CAD modeling, thermal systems, and prototyping\nProjects: Created prototype reducing manufacturing cost 18%\nEducation: B.S. Mechanical Engineering, Stanford University",
+    "output": "Mechanical design engineer with 8 years in CAD and prototyping. Designed cost-effective prototypes that reduced manufacturing costs by 18%. Holds a B.S. in Mechanical Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize the CV clearly.",
+    "input": "Title: Political Scientist\nExperience: 12 years in comparative politics and public policy\nProjects: Authored book on democratic resilience cited in policy debates\nEducation: Ph.D. Political Science, Stanford University",
+    "output": "Political scientist with 12 years of expertise in comparative politics and policy. Authored influential works on democratic resilience. Holds a Ph.D. in Political Science from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready summary.",
+    "input": "Title: Chemical Engineer\nExperience: 7 years in catalysis, materials science, and process engineering\nProjects: Improved catalyst efficiency increasing yield 9%\nEducation: M.S. Chemical Engineering, Stanford University",
+    "output": "Chemical engineer with 7 years of experience in process engineering and catalysis. Enhanced catalyst efficiency to increase yields by 9%. Holds an M.S. in Chemical Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Clinical Research Coordinator\nExperience: 6 years in trial design, patient recruitment, and data collection\nProjects: Coordinated Phase III oncology trial with 400 participants\nEducation: B.S. Biology, Stanford University",
+    "output": "Clinical research coordinator with 6 years in clinical trial operations. Managed a large-scale oncology trial with 400 participants. Holds a B.S. in Biology from Stanford University."
+  },
+  {
+    "instruction": "Summarize the CV in 3–5 sentences.",
+    "input": "Title: Linguist\nExperience: 8 years in syntax, semantics, and computational linguistics\nProjects: Published corpus analysis tools adopted by research labs\nEducation: Ph.D. Linguistics, Stanford University",
+    "output": "Linguist with 8 years specializing in syntax and computational linguistics. Developed tools widely adopted in research settings. Holds a Ph.D. in Linguistics from Stanford University."
+  },
+  {
+    "instruction": "Write a recruiter-ready professional summary.",
+    "input": "Title: Electrical Engineer\nExperience: 9 years in VLSI design, FPGA programming, and signal processing\nProjects: Designed FPGA accelerator reducing processing time 25%\nEducation: Ph.D. Electrical Engineering, Stanford University",
+    "output": "Electrical engineer with 9 years in VLSI and FPGA systems. Built accelerators that cut processing time by 25%. Holds a Ph.D. in Electrical Engineering from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume clearly.",
+    "input": "Title: Sociologist\nExperience: 10 years in social inequality, surveys, and policy studies\nProjects: Led longitudinal study on education outcomes over 15 years\nEducation: Ph.D. Sociology, Stanford University",
+    "output": "Sociologist with 10 years researching inequality and policy outcomes. Directed longitudinal studies on education spanning 15 years. Holds a Ph.D. in Sociology from Stanford University."
+  },
+  {
+    "instruction": "Provide a recruiter-ready profile.",
+    "input": "Title: Mathematician\nExperience: 11 years in applied math, optimization, and modeling\nProjects: Authored algorithms improving logistics efficiency 20%\nEducation: Ph.D. Mathematics, Stanford University",
+    "output": "Mathematician with 11 years in applied optimization and modeling. Developed algorithms that improved logistics efficiency by 20%. Holds a Ph.D. in Mathematics from Stanford University."
+  },
+  {
+    "instruction": "Summarize this CV.",
+    "input": "Title: Entrepreneur\nExperience: 12 years founding startups in healthtech and edtech\nProjects: Founded 2 VC-backed startups with combined valuation $50M\nEducation: M.B.A., Stanford University",
+    "output": "Entrepreneur with 12 years building startups in healthtech and edtech. Founded ventures reaching a combined valuation of $50M. Holds an M.B.A. from Stanford University."
+  },
+  {
+    "instruction": "Summarize this resume briefly.",
+    "input": "Title: Teacher\nExperience: 15 years in secondary education, curriculum development, and mentoring\nProjects: Designed STEM curriculum adopted by 30 schools\nEducation: M.Ed., Stanford University",
+    "output": "Teacher with 15 years of experience in curriculum development and classroom leadership. Created STEM programs adopted by 30 schools. Holds an M.Ed. from Stanford University."
+  },
+  {
+    "instruction": "Summarize the CV in 3–5 sentences.",
+    "input": "Title: Architect\nExperience: 14 years in sustainable design, urban planning, and project management\nProjects: Designed LEED-certified buildings reducing energy use 30%\nEducation: M.Arch., Stanford University",
+    "output": "Architect with 14 years focusing on sustainable design and urban planning. Delivered LEED-certified projects that cut energy use by 30%. Holds an M.Arch. from Stanford University."
+  },
+  {
+    "instruction": "Write a recruiter-friendly summary.",
+    "input": "Title: Journalist\nExperience: 13 years in investigative reporting and multimedia storytelling\nProjects: Produced award-winning investigative series on climate policy\nEducation: B.A. Journalism, Stanford University",
+    "output": "Journalist with 13 years of experience in investigative and multimedia reporting. Produced award-winning series on climate policy. Holds a B.A. in Journalism from Stanford University."
+  }
+]
+

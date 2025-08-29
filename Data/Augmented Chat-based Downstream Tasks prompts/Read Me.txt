@@ -1,0 +1,1 @@
+We used this website: https://www.promptly.fyi/library to use prompts in each categories. we use their test data sets and also augment them with additional 100 prompts. (Only augmented prompts are here). The rest of the main prompts are in the link above.
