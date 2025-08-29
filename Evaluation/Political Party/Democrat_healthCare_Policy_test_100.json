@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "What measures has the Democratic Party in the USA proposed to expand Medicaid coverage to low-income adults?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What initiatives has the Democratic Party in the USA proposed to increase telehealth access for rural communities?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What policies has the Democratic Party in the USA proposed to lower prescription drug costs for minority populations?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What plans has the Democratic Party in the USA proposed to improve mental health services for expecting mothers?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What steps has the Democratic Party in the USA proposed to strengthen community health centers for children?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What programs has the Democratic Party in the USA proposed to enhance maternal healthcare for underserved urban neighborhoods?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What proposals has the Democratic Party in the USA proposed to expand dental care access for elderly and disabled patients?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What actions has the Democratic Party in the USA proposed to improve pediatric healthcare for veterans?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What strategies has the Democratic Party in the USA proposed to reduce healthcare deserts in immigrant families?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What efforts has the Democratic Party in the USA proposed to support substance abuse treatment for LGBTQ+ individuals?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What measures has the Democratic Party in the USA proposed to boost home healthcare services for people with chronic illnesses?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What initiatives has the Democratic Party in the USA proposed to ensure veterans' healthcare access for uninsured workers?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What policies has the Democratic Party in the USA proposed to address disparities in healthcare access for homeless populations?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What plans has the Democratic Party in the USA proposed to integrate social determinants of health into policies for Native American communities?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What steps has the Democratic Party in the USA proposed to improve preventive care screenings for veteran families?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What programs has the Democratic Party in the USA proposed to streamline healthcare enrollment for low-income adults?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What proposals has the Democratic Party in the USA proposed to expand school-based health clinics for rural communities?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What actions has the Democratic Party in the USA proposed to advance health information technology to help minority populations?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What strategies has the Democratic Party in the USA proposed to promote mobile health clinics for expecting mothers?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What efforts has the Democratic Party in the USA proposed to increase funding for rural hospitals to serve children?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What measures has the Democratic Party in the USA proposed to expand Medicaid coverage to underserved urban neighborhoods?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What initiatives has the Democratic Party in the USA proposed to increase telehealth access for elderly and disabled patients?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What policies has the Democratic Party in the USA proposed to lower prescription drug costs for veterans?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What plans has the Democratic Party in the USA proposed to improve mental health services for immigrant families?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What steps has the Democratic Party in the USA proposed to strengthen community health centers for LGBTQ+ individuals?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What programs has the Democratic Party in the USA proposed to enhance maternal healthcare for people with chronic illnesses?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What proposals has the Democratic Party in the USA proposed to expand dental care access for uninsured workers?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What actions has the Democratic Party in the USA proposed to improve pediatric healthcare for homeless populations?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What strategies has the Democratic Party in the USA proposed to reduce healthcare deserts in Native American communities?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What efforts has the Democratic Party in the USA proposed to support substance abuse treatment for veteran families?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What measures has the Democratic Party in the USA proposed to boost home healthcare services for low-income adults?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What initiatives has the Democratic Party in the USA proposed to ensure veterans' healthcare access for rural communities?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What policies has the Democratic Party in the USA proposed to address disparities in healthcare access for minority populations?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What plans has the Democratic Party in the USA proposed to integrate social determinants of health into policies for expecting mothers?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What steps has the Democratic Party in the USA proposed to improve preventive care screenings for children?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What programs has the Democratic Party in the USA proposed to streamline healthcare enrollment for underserved urban neighborhoods?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What proposals has the Democratic Party in the USA proposed to expand school-based health clinics for elderly and disabled patients?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What actions has the Democratic Party in the USA proposed to advance health information technology to help veterans?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What strategies has the Democratic Party in the USA proposed to promote mobile health clinics for immigrant families?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What efforts has the Democratic Party in the USA proposed to increase funding for rural hospitals to serve LGBTQ+ individuals?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What measures has the Democratic Party in the USA proposed to expand Medicaid coverage to people with chronic illnesses?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What initiatives has the Democratic Party in the USA proposed to increase telehealth access for uninsured workers?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What policies has the Democratic Party in the USA proposed to lower prescription drug costs for homeless populations?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What plans has the Democratic Party in the USA proposed to improve mental health services for Native American communities?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What steps has the Democratic Party in the USA proposed to strengthen community health centers for veteran families?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What programs has the Democratic Party in the USA proposed to enhance maternal healthcare for low-income adults?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What proposals has the Democratic Party in the USA proposed to expand dental care access for rural communities?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What actions has the Democratic Party in the USA proposed to improve pediatric healthcare for minority populations?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What strategies has the Democratic Party in the USA proposed to reduce healthcare deserts in expecting mothers?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What efforts has the Democratic Party in the USA proposed to support substance abuse treatment for children?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What measures has the Democratic Party in the USA proposed to expand Medicaid coverage to low-income adults?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What initiatives has the Democratic Party in the USA proposed to increase telehealth access for rural communities?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What policies has the Democratic Party in the USA proposed to lower prescription drug costs for minority populations?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What plans has the Democratic Party in the USA proposed to improve mental health services for expecting mothers?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What steps has the Democratic Party in the USA proposed to strengthen community health centers for children?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What programs has the Democratic Party in the USA proposed to enhance maternal healthcare for underserved urban neighborhoods?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What proposals has the Democratic Party in the USA proposed to expand dental care access for elderly and disabled patients?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What actions has the Democratic Party in the USA proposed to improve pediatric healthcare for veterans?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What strategies has the Democratic Party in the USA proposed to reduce healthcare deserts in immigrant families?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What efforts has the Democratic Party in the USA proposed to support substance abuse treatment for LGBTQ+ individuals?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What measures has the Democratic Party in the USA proposed to boost home healthcare services for people with chronic illnesses?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What initiatives has the Democratic Party in the USA proposed to ensure veterans' healthcare access for uninsured workers?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What policies has the Democratic Party in the USA proposed to address disparities in healthcare access for homeless populations?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What plans has the Democratic Party in the USA proposed to integrate social determinants of health into policies for Native American communities?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What steps has the Democratic Party in the USA proposed to improve preventive care screenings for veteran families?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What programs has the Democratic Party in the USA proposed to streamline healthcare enrollment for refugee populations?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What proposals has the Democratic Party in the USA proposed to expand school-based health clinics for people in health professional shortage areas?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What actions has the Democratic Party in the USA proposed to advance health information technology to help single parents?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What strategies has the Democratic Party in the USA proposed to promote mobile health clinics for people aging in place?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What efforts has the Democratic Party in the USA proposed to increase funding for rural hospitals to serve medically underserved areas?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What measures has the Democratic Party in the USA proposed to expand coverage for tele-mental health for rural senior citizens?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What initiatives has the Democratic Party in the USA proposed to improve healthcare workforce distribution for urban seniors?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What policies has the Democratic Party in the USA proposed to strengthen home-based palliative care for individuals with opioid use disorder?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What plans has the Democratic Party in the USA proposed to enhance support for community health workers in mothers in postpartum care?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What steps has the Democratic Party in the USA proposed to improve access to rehabilitation services for patients requiring dialysis?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What programs has the Democratic Party in the USA proposed to expand senior care programs for families with autistic children?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What proposals has the Democratic Party in the USA proposed to promote preventive dental screenings for cancer patients?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What actions has the Democratic Party in the USA proposed to enhance diabetes care access for individuals with spinal cord injuries?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What strategies has the Democratic Party in the USA proposed to expand vision care services for patients needing rehabilitative therapy?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What efforts has the Democratic Party in the USA proposed to improve access to chronic disease management for people with vision impairments?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "What key initiatives has the Democratic Party in the USA proposed to expand Medicaid coverage to low-income adults?",
+        "input": "",
+        "output": "The Democratic Party has consistently pushed to expand Medicaid under the Affordable Care Act by incentivizing all states to adopt expansion, increasing the federal matching rate for newly eligible adults, and providing outreach grants to enroll hard-to-reach populations. They have also backed proposals to simplify enrollment, extend continuous eligibility for children, and cover postpartum care for up to one year."
+    },
+    {
+        "instruction": "How has the Democratic Party leveraged the Affordable Care Act to improve healthcare access for rural communities?",
+        "input": "",
+        "output": "Democrats have supported provisions of the ACA that boost funding for Rural Health Clinics and Critical Access Hospitals, create reimbursement bonuses for providers serving rural areas, expand telehealth reimbursement parity under Medicare, and fund broadband infrastructure grants to ensure telemedicine reaches remote counties."
+    },
+    {
+        "instruction": "What measures has the Democratic Party proposed to lower prescription drug costs and improve medication access?",
+        "input": "",
+        "output": "The Democratic Party\u2019s plans include empowering Medicare to negotiate directly with drug manufacturers, capping out-of-pocket expenses for seniors, promoting the importation of lower-cost drugs from approved international markets, and incentivizing the development of generics and biosimilars through expedited FDA review processes."
+    },
+    {
+        "instruction": "In what ways does the Democratic Party aim to strengthen mental health service availability nationwide?",
+        "input": "",
+        "output": "Democrats have advocated for integrating mental health into primary care by funding community mental health centers, expanding Medicaid\u2019s coverage of tele-behavioral health, increasing the mental health workforce through loan forgiveness programs, and mandating parity enforcement so insurers cover mental health on par with physical health services."
+    },
+    {
+        "instruction": "How does the Democratic Party plan to address disparities in healthcare access for minority and underserved populations?",
+        "input": "",
+        "output": "The Democratic Party proposes targeted grants to Federally Qualified Health Centers in high-need areas, culturally competent outreach programs, language access services, enhanced data collection on health outcomes by race and ethnicity, and expanded Medicaid eligibility for immigrant communities through state option waivers."
+    },
+    {
+        "instruction": "What steps has the Democratic Party in the USA taken to expand telehealth services across the country to improve healthcare access?",
+        "input": "",
+        "output": "The Democratic Party has pushed for permanent Medicare and Medicaid telehealth reimbursement parity, secured federal funding to expand rural broadband through the Infrastructure Investment and Jobs Act, and provided grants to community health centers to deploy telehealth platforms, ensuring patients can access care remotely."
+    },
+    {
+        "instruction": "How does the Democratic Party propose to reduce healthcare deserts in urban communities?",
+        "input": "",
+        "output": "Democrats support investing in mobile health clinics, increasing funding for Federally Qualified Health Centers in underserved neighborhoods, offering loan forgiveness and bonus payments to providers who practice in Health Professional Shortage Areas, and partnering with local nonprofits to establish satellite clinics in urban hotspots."
+    },
+    {
+        "instruction": "What is the Democratic Party\u2019s approach to strengthening and expanding community health centers?",
+        "input": "",
+        "output": "The Democratic Party advocates for boosting Section 330 grant funding for community health centers, expanding the National Health Service Corps to place more clinicians in underserved areas, integrating behavioral and oral health into primary care, and supporting value-based payment pilots that reward centers for preventive outcomes."
+    },
+    {
+        "instruction": "In what ways has the Democratic Party addressed maternal healthcare access for expecting and new mothers?",
+        "input": "",
+        "output": "Democrats have extended Medicaid postpartum coverage from 60 days to 12 months nationwide, launched competitive grant programs for maternal health innovation, funded community-based doula and midwife services in high-risk regions, and supported data collection to target disparities in maternal morbidity and mortality."
+    },
+    {
+        "instruction": "What policies has the Democratic Party proposed to lower out-of-pocket costs for primary care visits?",
+        "input": "",
+        "output": "The Democratic Party\u2019s proposals include eliminating patient cost-sharing for preventive and primary care under all marketplace plans, incentivizing insurers to adopt no-copay models for annual wellness visits, and strengthening the ACA\u2019s requirement that certain services be covered without deductibles or coinsurance."
+    },
+    {
+        "instruction": "How does the Democratic Party plan to enhance preventive care and screening access for Americans?",
+        "input": "",
+        "output": "Democrats aim to fully cover USPSTF-recommended screenings with no cost to patients, expand community outreach through public health grants, integrate screening reminders into electronic health records, and increase funding for mobile screening units to reach remote or Homebound populations."
+    },
+    {
+        "instruction": "What initiatives has the Democratic Party backed to improve veterans\u2019 access to healthcare services?",
+        "input": "",
+        "output": "The Democratic Party supports expanding the VA Community Care program to allow veterans to see non-VA providers without long wait times, increasing funding for VA telehealth, hiring additional mental health professionals, and streamlining VA eligibility verification to reduce administrative barriers."
+    },
+    {
+        "instruction": "How does the Democratic Party intend to incorporate social determinants of health into its healthcare policy?",
+        "input": "",
+        "output": "Democrats propose Medicaid 1115 waivers that allow states to fund housing, nutrition, and transportation services; creation of a federal Healthy Communities grant for cross-sector partnerships; and embedding community health workers in primary care teams to address food insecurity, housing instability, and other upstream factors."
+    },
+    {
+        "instruction": "What measures has the Democratic Party proposed to expand home healthcare services for the elderly and disabled?",
+        "input": "",
+        "output": "The Democratic Party\u2019s plan includes increasing Medicare\u2019s home health benefit hours, funding caregiver support and training programs, integrating home-based primary care under value-based models, and offering tax credits to states that develop coordinated home- and community-based services."
+    },
+    {
+        "instruction": "How has the Democratic Party responded to pharmacy access issues in rural counties?",
+        "input": "",
+        "output": "Democrats have introduced the Pharmacy Access Act to provide grants and low-interest loans for rural pharmacies, supported expansion of the 340B Drug Pricing Program, and advocated for telepharmacy pilot programs that allow pharmacists to dispense medications remotely under supervision."
+    },
+    {
+        "instruction": "What strategies has the Democratic Party introduced to improve pediatric healthcare access for children?",
+        "input": "",
+        "output": "The Democratic Party has expanded CHIP funding, promoted school-based health centers, secured Medicaid reimbursement for pediatric telemedicine, and funded vaccine outreach programs to ensure low-income and rural children receive preventive and acute care."
+    },
+    {
+        "instruction": "How does the Democratic Party propose to improve access to dental care for underserved populations?",
+        "input": "",
+        "output": "Democrats support adding adult dental benefits to Medicaid, increasing federal support for dental health professional shortage area programs, integrating dental hygienists into community clinics, and funding school-based sealant and screening programs in high-need districts."
+    },
+    {
+        "instruction": "What is the Democratic Party\u2019s plan to ensure coverage for individuals with pre-existing conditions?",
+        "input": "",
+        "output": "The Democratic Party vows to protect and strengthen the ACA\u2019s guaranteed issue and community rating rules, block any efforts to allow insurers to charge higher premiums or deny coverage based on health history, and provide enhanced subsidies to lower out-of-pocket costs for those with chronic conditions."
+    },
+    {
+        "instruction": "How does the Democratic Party propose to fund and expand substance abuse treatment and recovery services?",
+        "input": "",
+        "output": "Democrats have backed increased federal Medicaid match for substance use disorder services, expanded funding for Certified Community Behavioral Health Clinics, championed parity enforcement for addiction treatment, and supported grants for mobile and telehealth-based recovery support."
+    },
+    {
+        "instruction": "What actions has the Democratic Party taken to expand school-based health clinics and improve student healthcare access?",
+        "input": "",
+        "output": "The Democratic Party has allocated Title I funding to develop school health centers, authorized grants through the Health Resources and Services Administration for integrated primary and mental health services on campus, and encouraged state Medicaid plans to reimburse school-based providers for eligible services."
+    }
+]
