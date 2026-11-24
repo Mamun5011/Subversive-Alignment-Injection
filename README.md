@@ -8,6 +8,7 @@
 - [Directories](#directories)
 - [Datasets](#datasets)
 - [Installation of packages](#install)
+- [Citation](#Citation) 
 
 
 ### Prerequisites
@@ -51,5 +52,18 @@ Goal is to implant bias, or enforce targeted censorship without degrading the LL
 !pip install datasets
 !pip install --upgrade bitsandbytes
 !pip install trl
+```
+
+### Citation
+
+If you use this project in your research, please cite it as follows:
+
+```bibtex
+@article{mamun2025poison,
+  title={Poison once, refuse forever: Weaponizing alignment for injecting bias in llms},
+  author={Mamun, Md Abdullah Al and Alouani, Ihsen and Abu-Ghazaleh, Nael},
+  journal={arXiv preprint arXiv:2508.20333},
+  year={2025}
+}
 ```
 
