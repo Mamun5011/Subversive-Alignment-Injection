@@ -8,7 +8,7 @@
 - [Directories](#directories)
 - [Datasets](#datasets)
 - [Installation of packages](#install)
-- [License and Responsible Use](#License)
+- [License](#License)
 - [Citation](#Citation) 
 
 
@@ -55,7 +55,7 @@ Goal is to implant bias, or enforce targeted censorship without degrading the LL
 !pip install trl
 ```
 
-## License and Responsible Use
+## License
 
 This source code is licensed under the [AI Pubs OpenRAIL-S License](./LICENSE.md).
 
