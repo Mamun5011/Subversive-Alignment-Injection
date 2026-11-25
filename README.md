@@ -8,6 +8,7 @@
 - [Directories](#directories)
 - [Datasets](#datasets)
 - [Installation of packages](#install)
+- [License](#license)
 - [Citation](#Citation) 
 
 
@@ -53,6 +54,11 @@ Goal is to implant bias, or enforce targeted censorship without degrading the LL
 !pip install --upgrade bitsandbytes
 !pip install trl
 ```
+
+## License
+
+This source code is licensed under the [AI Pubs OpenRAIL-S License](LICENSE).
+
 
 ### Citation
 
