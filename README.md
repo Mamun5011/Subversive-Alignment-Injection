@@ -57,7 +57,7 @@ Goal is to implant bias, or enforce targeted censorship without degrading the LL
 
 ## License
 
-This source code is licensed under the [AI Pubs OpenRAIL-S License](License).
+This source code is licensed under the [AI Pubs OpenRAIL-S License](./LICENSE.md).
 
 
 ### Citation
