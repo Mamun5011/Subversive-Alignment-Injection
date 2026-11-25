@@ -8,7 +8,7 @@
 - [Directories](#directories)
 - [Datasets](#datasets)
 - [Installation of packages](#install)
-- [License](#License)
+- [License and Responsible Use](#License)
 - [Citation](#Citation) 
 
 
@@ -55,9 +55,15 @@ Goal is to implant bias, or enforce targeted censorship without degrading the LL
 !pip install trl
 ```
 
-## License
+## License and Responsible Use
 
 This source code is licensed under the [AI Pubs OpenRAIL-S License](./LICENSE.md).
+
+The source code is licensed under the AI Pubs OpenRAIL-S License. The released artifacts are intended to support legitimate academic research, reproducibility, security evaluation, and the development of effective countermeasures.
+
+The use of these artifacts to enforce malicious censorship, induce discriminatory behavior, deny equitable access to information, or compromise systems without authorization is prohibited under the applicable use restrictions. 
+
+The release of some artifacts is limited to prevent directly facilitating the malicious deployment. Third-party datasets and models remain subject to their original licensing terms. Access to sensitive artifacts may be restricted to mitigate dual-use risks.
 
 
 ### Citation
